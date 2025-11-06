@@ -1,0 +1,9 @@
+The Quru desert is a barren wasteland, but filled with mysteries both new and old. It has long been abandoned as a place where nothing but bad things live, and those foolish enough to venture out there found little that was worth it. However, things have changed in the last decades, as the rising level of magic in the world has caused something of a gold rush in the desert, as many essence deposits are appearing in the once dead landscape.
+
+Most of the desert is uncharted, and those with maps keep them secret and safe. With priceless commodities and artifacts out there, information is power. Out there lie ancient ruins hidden in the mountains and beneath the sands. Essence bursting forth from the ground is also creating strange and wondrous phenomena.
+
+Small communities are starting to stretch out, but the largest by far is [[Crucible]]. Those living in other settlements have either been turned away from Crucible, or have found something they believe is worth defending. Along the way from Crucible out of Quru, the most reliable stopping points are the many caravanserai. But despite their best attempts, many caravans are still subject to bandit raids and supernatural events.
+
+Outside the safety of Crucible’s walls, the dangers are many. Devastating weather, scorching heat, crime, banditry, and monsters abound. Outside the safety of Crucible’s walls, the desert is a lawless land. Travellers are treated with suspicion, equally as likely to be bandits as a monster trying to eat you. Those that afford living within the Crucible's wall generally do well, but those who can’t… usually don’t make it long. The terrible environment combined with the creatures of the wild mean that the shantytowns that occasionally spring up around Crucible disappear every so often.
+
+Some who travel through Quru get trapped here, having spent all their money getting to their destination with dreams of wealth and riches. And now they don’t have enough to return.
