@@ -1,0 +1,16 @@
+---
+tags:
+  - ability/tier1
+  - ability/study
+  - actions/major
+  - effects/support
+  - keywords/blood
+---
+# Study Flaws \[Perceive\] \[Blood\]
+Tier 1\. Prerequisite: [[Study]] 1  
+Major Action. 1 Health.  
+1 creature you can see.  
+Effect: Make an INT+[[Study]] test against the target's Magic Defense. Success means the target suffers a (Rank) penalty to a defense of your choice until the end of the next round, increasing the penalty by 1 per success.
+
+---
+*Created 2025-11-07*

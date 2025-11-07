@@ -32,17 +32,16 @@ If there ever is a conflict between multiple effects occurring at the same time,
 ## Costs
 Many effects in this game have an associated cost. A cost must be paid to use an effect.. If a cost lists “up to X”, you may choose to pay a cost of 0\.
 ## Ranges
-While most ranges are defined as a number of meters, there are a number of special ranges used in this game.
+While most ranges are defined as a number of meters, there are a number of special ranges used in this game. Some of them scale by the Rank of the effect being used.
 * Melee: Anything you can touch with a Weapon, usually 1m away from yourself.  
 * Close (X): Up to 5 \* the rank of X meters   
-* Medium (X): Up to 30 \* the rank of X meters  
+* Medium (X): Up to 10 \* the rank of X meters  
 * Far (X): Up to 100 \* the rank of X meters  
 * Sight: As far as you can see
 ## Relations
 Sometimes the level of relation you have with NPCs may be important. Therefor the relations are codified in the following manner to help both players and GMs estimate how well an NPC thinks of you:  Hostile \- Negative \- Neutral \- Positive \- Friendly  
 Improving a relation by 1 step moves it towards Friendly, reducing a relation by 1 step moves it towards Hostile.  
 Hostile does not mean that they will attack you on sight, but they will actively work against you.
-
 # Additional Effect
 ## Additional Successes
 
@@ -59,7 +58,11 @@ Example
 
 ### Health  
 Health represents how much damage you can take before becoming unconscious, and eventually die. Whenever you suffer damage, reduce your health by the same amount. Some effects cost Health, which directly reduces your health by that amount.  
-To recover Health, you use Recoveries. During an Exploration Phase, you may spend a Recovery to recover 1d10 \+ your recovery value Health.
+To recover Health, you use Recoveries. During an Exploration Phase, you may spend a Recovery to recover 1d10 \+ your recovery value Health - your Wound penalty.
+
+## Recoveries
+Recoveries are a measure of how much you can heal each day. You have a certain amount of Recoveries that you can spend each day. Once you take a [[Exploration|rest]], you regain all your Recoveries.
+Spending a Recovery means rolling `1d10 + recovery value - Wound penalty` and recovering that much Health.
 ### Wounds  
 Whenever you take damage in a single instance equal to a third or more of your maximum Health, your wounds increase in severity and you must make a [Knockdown](#bookmark=id.l3hixbco5di8) test. The severity of wounds increases from nothing \-\> Light \-\> Medium \-\> Heavy.
 
@@ -68,8 +71,7 @@ Whenever you take damage in a single instance equal to a third or more of your m
 | Light Wounds | \-1 |
 | Medium Wounds | \-3 |
 | Heavy Wounds | \-5 |
-
-The Wound penalty is applied to all Tests, Defenses, and to Recovery rolls. Wounds are harder to heal than Health. Each day spent resting reduces the severity of your Wounds by 1 step.
+The Wound penalty is applied to all Tests, Defenses, and to Recovery rolls. Wounds are harder to heal than Health. Each day spent [[Exploration|resting]] reduces the severity of your Wounds by 1 step.
 ### Dying and Death  
 Once your health reaches 0, you become unconscious and start dying. Every round, you must make a Stamina Test of (your absolute health). Success means you do not lose any more Health this round. Scoring an additional success means you Stabilize and are no longer dying.  Failure means you lose 1 Health. When your health reaches a negative value equal to half your maximum Health, you die. 
 ### Defeated  
