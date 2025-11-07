@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "arkandos.github.io/elder-arcana",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "z_templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
