@@ -1,6 +1,11 @@
 ---
 tags:
   - art/mind
+title: Art of Mind
+aliases:
+  - Art of Mind
+cssclasses:
+  - document--no-title
 ---
 Subtly influence the minds of others. Botches to use Mind may affect yourself, believe your effect worked when it did not, or make them aware of your attempts.
 

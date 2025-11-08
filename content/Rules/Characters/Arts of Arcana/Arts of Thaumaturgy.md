@@ -1,1 +1,0 @@
-*Affecting the natural forces of the world: air, earth, fire, nature, and water.*

@@ -1,6 +1,9 @@
 ---
 aliases:
   - Base Abilities
+title: Base Abilities
+cssclasses:
+  - document--no-title
 ---
 Artistry\*  
 &emsp;&emsp;Creating works of art, performing or producing music  

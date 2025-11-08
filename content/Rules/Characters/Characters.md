@@ -13,7 +13,7 @@ Every character has X number of attributes with scores from \-3 to \+3, starting
 6. Presence	(PRE)
 	1. Charisma, communication. Presence influences others, and adds to your Mental Defense.
 
-When assigning your starting Attributes, you have 10 points to spend. Costs increase to gain a higher attribute, but you may gain additional points by lowering an attribute. An attribute cannot be higher than \+3 nor lower than \-3 (except due to [[Kith]] modifiers)
+When assigning your starting Attributes, you have 10 points to spend. Costs increase to gain a higher attribute, but you may gain additional points by lowering an attribute. An attribute cannot be higher than \+3 nor lower than \-3 (except due to [[Rules/Characters/Kith/index|Kith]] modifiers)
 
 | Attribute | Point cost    |
 | :-------- | :------------ |
@@ -26,30 +26,23 @@ When assigning your starting Attributes, you have 10 points to spend. Costs incr
 | \-3       | Gain 6 points |
 ## Statistics
 Statistics are derived from your attributes and cannot be directly improved.  
-Health: 20 \+ 2 \* Stamina  
-	How much damage you can suffer before going unconscious or dying.  
-Speed: 10 \+ Dexterity  
-	How many meters you can move each [[Encounters|round]].  
-Initiative: 3 \+ Dexterity  
-	How fast your reactions are.
-Physical Defense: 6 \+ Strength \+ Dexterity  
-	How difficult you are to hit in physical combat  
-Magic Defense: 6 \+ Intelligence \+ Willpower  
-	How difficult you are to hit in magical combat  
-Mental Defense: 6 \+ 2 \* Presence (or 1\*Presence if negative)  
-	How difficult you are to manipulate emotionally  
-Physical & Magic Armor: Stamina  
-	Reduces the damage you take by this amount. Increased by [[Equipment#Armors|Armor]]
-Weave pool: 3 \+ Intelligence. (Minimum 1\)  
-	Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health.  
-Mythos pool: 3 \+ Willpower.  
-	Used to reroll Tests. Refreshes every day.  
-[[Core Rules#Recoveries|Recoveries]]: 1 \+ Stamina (if positive)  
-	Determines how many times per day you can heal damage.  
-[[Core Rules#Recoveries|Recovery value]]:  1 \+ 2 \* Stamina (if positive).  
-	Determines how much each Recovery spent heals you.
+
+
+| Statistic                    | Value                                | Description                                                                                                                |
+| ---------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Health                       | 20 + <br>2 * STA                     | How much damage you can suffer before going unconscious or dying.                                                          |
+| Speed                        | 10 + DEX                             | How many meters you can move each [[Rules/Encounters/index\|round]].                                                                   |
+| Initiative                   | 3 + DEX                              | How fast your reactions are in stressful [[Rules/Encounters/index]]                                                                    |
+| Physical Defense             | 6 +<br>STR+DEX                       | How difficult you are to hit in physical combat                                                                            |
+| Magic Defense                | 6 +<br>INT+WIL                       | How difficult you are to hit in magical combat                                                                             |
+| Mental Defense               | 6 + PRE                              | How difficult you are to manipulate emotionally                                                                            |
+| Physical & <br>Magical Armor | STA +<br>[[Rules/Characters/Equipment/index#Armors\|Armor]] | Reduces the damage you take by this amount.                                                                                |
+| Weave pool                   | 3 + INT<br>(min 1)                   | Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health. |
+| Mythos pool                  | 3 + WIL                              | Used to reroll Tests. Refreshes every day.                                                                                 |
+| Recoveries                   | 1 + STA$^+$                          | Determines how many times per day you can heal damage.                                                                     |
+| Recovery<br>value            | 1 +<br>2 + STA$^+$                   | Determines how much each Recovery spent heals you.                                                                         |
 
 ## Abilities
 There are many Abilities in Elder Arcana. Most tests involve adding one [[#Attributes|Attribute]] score, and one Ability Rank. However this relation between them is not set in stone unless called for by an ability. Certain situations may call upon you to use a different Attribute with the Ability.  
-Abilities are divided into [[Tier 0|Base Abilities]] (Tier 0), and Adept Abilities (Tier 1 and above). Anyone can use a Base Ability (even at Rank 0\) unless it has an \* next to its name, meaning that it can only be used if you have at least one Rank in that ability.  
+Abilities are divided into [[Rules/Characters/Abilities/Tier 0/index|Base Abilities]] (Tier 0), and Adept Abilities (Tier 1 and above). Anyone can use a Base Ability (even at Rank 0\) unless it has an \* next to its name, meaning that it can only be used if you have at least one Rank in that ability.  
 Adept Abilities can only be used if you have at least one Rank in them.

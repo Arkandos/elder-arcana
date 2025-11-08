@@ -1,6 +1,11 @@
 ---
 tags:
   - art/force
+title: Art of Force
+aliases:
+  - Art of Force
+cssclasses:
+  - document--no-title
 ---
 Move things at range, and create fields of invisible force. Botches to use Force often result in the target being dropped, moved in the wrong direction or with too much force.
 

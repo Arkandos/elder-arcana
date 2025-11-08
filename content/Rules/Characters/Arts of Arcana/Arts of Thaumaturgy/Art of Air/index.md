@@ -1,6 +1,11 @@
 ---
 tags:
   - art/air
+title: Art of Air
+aliases:
+  - Art of Air
+cssclasses:
+  - document--no-title
 ---
 The elemental forces of weather, wind, and air. Botches may result in the wrong type of weather, drawing unwanted attention, or losing control of the effect.
 

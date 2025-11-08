@@ -5,7 +5,7 @@ aliases:
 ---
 # Character Advancement
 
-As you complete adventures and perform heroic deeds, your prowess grows. You are rewarded with [[Abilities|Experience]] and [[Arts excerpt|Art points]], which you can spend to improve yourself. Once you have acquired a certain amount of Abilities and Arts, you may rise to the next Echelon.
+As you complete adventures and perform heroic deeds, your prowess grows. You are rewarded with [[Rules/Characters/Abilities/index|Experience]] and [[Rules/Characters/Arts of Arcana/index|Art points]], which you can spend to improve yourself. Once you have acquired a certain amount of Abilities and Arts, you may rise to the next Echelon.
 
 Echelons are like levels of power, each representing a milestone of progress. Weavers may sometimes refer to each other by their Echelon, as a way to measure power. Your total Echelon is a combination of all your Echelon Ranks. Before you unlock your first Echelon, you are counted as being at Echelon 0\.
 

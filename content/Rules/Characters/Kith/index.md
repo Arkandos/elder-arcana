@@ -1,1 +1,8 @@
+---
+aliases:
+  - Kith
+title: Kith
+cssclasses:
+  - document--no-title
+---
 Kith attribute changes and maximums are applied after you have assigned your starting attributes. When assigning your starting Base Abilities, you may add one of the given numbers to the Kith starting abilities you have. For example, a Human could add a 2 from the array to their Acrobatics to get a Rank of 3\. You cannot increase a Rank above 3 in this way.

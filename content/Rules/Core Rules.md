@@ -1,7 +1,7 @@
 Elder Arcana is a fantasy tabletop roleplaying game about fantastical characters overcoming the odds. It plays out over long timescales, as months and possibly years pass on by and the world changes between adventures.  
 While at its core a tactical combat game, there are many ways to express your character and explore outside of battles. Indeed, this is required to ensure that your fragile characters survive to see another sunrise. With exploding dice, death and destruction could strike at any moment.
 
-Inspired by many ttrpgs around, but drawing heavily upon the systems of  Earthdawn and Ars Magica. Thank you to all my inspirations, and all the people who have helped me along the way.
+Inspired by many ttrpgs around, but drawing heavily upon the systems of Earthdawn and Ars Magica. Thank you to all my inspirations, and all the people who have helped me along the way.
 ## Golden Rule
 This rules reference is the definite source of rules. A specific mechanic may override these rules. If an effect forbids you from performing some act, that effect is absolute unless another effect specifically counteracts it. You must perform an act preceded by “must”, and may opt to ignore one preceded by “may”. Effects preceded by “then” or worded as “you may pay X to do Y” are only allowed if the preceding effect was true, or its cost paid (where applicable)
 ## Dice Mechanics
@@ -23,7 +23,7 @@ A botched attack may cause you to drop your weapon, a botched conversation may e
 ## Bonus dice
 Some abilities may grant bonus dice to a type of roll or test. They are listed as \+1d6, denoting how many and what size to roll. Bonus dice can never explode or botch. 
 ## Time
-Time is an important resource in **Elder Arcana** and has some special definitions here. In [[Encounters]], time and the order of operations matters the most. An encounter round is 6 seconds, meaning there are 10 rounds per minute. While in [[Exploration]] mode, most actions take one phase which is 10 minutes. [[Downtime]] which happens between adventures is measured in months.
+Time is an important resource in **Elder Arcana** and has some special definitions here. In [[Rules/Encounters/index]], time and the order of operations matters the most. An encounter round is 6 seconds, meaning there are 10 rounds per minute. While in [[Exploration]] mode, most actions take one phase which is 10 minutes. [[Downtime]] which happens between adventures is measured in months.
 ## Order of Resolution
 If there ever is a conflict between multiple effects occurring at the same time, resolve them in the following priority:
 1) First resolve all negative effects that would apply  

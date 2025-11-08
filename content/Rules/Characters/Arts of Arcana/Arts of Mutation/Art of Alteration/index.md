@@ -1,6 +1,11 @@
 ---
 tags:
   - art/alteration
+title: Art of Alteration
+aliases:
+  - Art of Alteration
+cssclasses:
+  - document--no-title
 ---
 Manipulate inanimate material, usually incapable of affecting magical material. Botches may result in an unwanted transformation, problematic fault in the creation, or receiving faulty information.
 

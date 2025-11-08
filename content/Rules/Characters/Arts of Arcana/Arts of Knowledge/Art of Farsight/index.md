@@ -1,6 +1,11 @@
 ---
 tags:
   - art/farsight
+title: Art of Farsight
+aliases:
+  - Art of Farsight
+cssclasses:
+  - document--no-title
 ---
 Sense things beyond your normal senses. When using senses at a distance, you need to see the targeted point. Botches may result in your senses being overwhelmed, drawing unwanted attention, or receiving faulty information.
 

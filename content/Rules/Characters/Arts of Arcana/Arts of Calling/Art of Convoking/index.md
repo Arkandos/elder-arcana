@@ -1,6 +1,11 @@
 ---
 tags:
   - art/convoking
+title: Art of Convoking
+aliases:
+  - Art of Convoking
+cssclasses:
+  - document--no-title
 ---
 Call forth creatures to do your bidding. When you first gain Convoking, choose a plane to associate the art with. Imp refers to the weak creatures you may summon, who do not mindlessly follow your commands. Botches usually result in your Imps turning on you, drawing unwanted attention, or calling forth something beyond your control.
 

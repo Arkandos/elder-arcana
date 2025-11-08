@@ -1,6 +1,11 @@
 ---
 tags:
   - art/illusion
+title: Art of Illusion
+aliases:
+  - Art of Illusion
+cssclasses:
+  - document--no-title
 ---
 Illusions fool the senses, although fooling several senses at once is more difficult. Botches may create the wrong image, give you away, or cause you to be the only one that experiences them.
 

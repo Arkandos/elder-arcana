@@ -1,6 +1,11 @@
 ---
 tags:
   - art/augury
+title: Art of Augury
+aliases:
+  - Art of Augury
+cssclasses:
+  - document--no-title
 ---
 Ask higher powers for guidance, induce visions and dreams. Often vague or duplicitous and should not be taken at face value. Dream effects are active the next time you sleep, and require at least 1 hour of sleep. Botches might result in your senses being overwhelmed, drawing unwanted attention, or becoming unconscious.
 

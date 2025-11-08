@@ -1,3 +1,10 @@
+---
+title: Encounters
+aliases:
+  - Encounters
+cssclasses:
+  - document--no-title
+---
 Encounters are stressful situations where time is of the essence. It could be a fight, escaping a collapsing building, or trying to catch a fleeing thief. While in an encounter, you have a certain number of [[#Actions]] to take on your turn in Initiative (see below)
 ## Initiative
 Since the order of who goes when is important in an encounter, everyone involved makes an Initiative Test every round to see what order they act in. The highest test result goes first, taking their turn. Once they have completed their turn, the round continues in descending order until everyone has taken a turn. Then the next round begins, and everyone makes a new Initiative Test.

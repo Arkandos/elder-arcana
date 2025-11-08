@@ -1,6 +1,11 @@
 ---
 tags:
   - art/earth
+title: Art of Earth
+aliases:
+  - Art of Earth
+cssclasses:
+  - document--no-title
 ---
 The elemental forces of earth, metal, and acid. Botches may result in losing control of the target, transforming into the wrong type of earth, or affecting yourself. 
 

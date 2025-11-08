@@ -1,6 +1,10 @@
 ---
 aliases:
   - Experience
+  - Abilities
+title: Abilities
+cssclasses:
+  - document--no-title
 ---
 Abilities  
 Abilities are how you handle most of your interactions with the world, as Tests are comprised of 1d10 \+ an attribute \+ an ability Rank. Abilities have two numerical values, Rank and Tier.  

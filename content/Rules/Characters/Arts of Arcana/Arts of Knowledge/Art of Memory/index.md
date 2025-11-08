@@ -1,6 +1,11 @@
 ---
 tags:
   - art/memory
+title: Art of Memory
+aliases:
+  - Art of Memory
+cssclasses:
+  - document--no-title
 ---
 Manipulate your own and others memories. When modifying other’s memories, they may detect egregious changes as false. Botches usually result in a faulty memory, targeting the wrong creature, or receiving faulty information.
 

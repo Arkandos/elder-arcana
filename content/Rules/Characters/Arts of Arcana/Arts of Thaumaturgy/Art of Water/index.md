@@ -1,6 +1,11 @@
 ---
 tags:
   - art/water
+title: Art of Water
+aliases:
+  - Art of Water
+cssclasses:
+  - document--no-title
 ---
 The elemental forces of water and cold. Water refers to all three states: fluid, solid, and steam. Botches usually result in the wrong liquid, losing control, or creating too much liquid.
 

@@ -1,6 +1,11 @@
 ---
 tags:
   - art/nature
+title: Art of Nature
+aliases:
+  - Art of Nature
+cssclasses:
+  - document--no-title
 ---
 Plantlife and natural beasts. Beasts refer to all types of non-intelligent natural creatures. Nature can affect both dead and living plants. Nature botches can result in the target turning against you, or an unwanted transformation.
 

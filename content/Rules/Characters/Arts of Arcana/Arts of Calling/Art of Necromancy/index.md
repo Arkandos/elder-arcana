@@ -1,6 +1,11 @@
 ---
 tags:
   - art/necromancy
+title: Art of Necromancy
+aliases:
+  - Art of Necromancy
+cssclasses:
+  - document--no-title
 ---
 The fundamental forces of death and unlife. Botches might free spirits, cause them to hinder you, or reveal faulty information.
 

@@ -1,6 +1,11 @@
 ---
 tags:
   - art/shapeshifting
+title: Art of Shapeshifting
+aliases:
+  - Art of Shapeshifting
+cssclasses:
+  - document--no-title
 ---
 Transform creatures in a temporary fashion. Limbs created through shapeshifting cannot wield weapons or shields. Botches may result in an unintended target, an unwanted form, or the inability to perform an action for a time.
 

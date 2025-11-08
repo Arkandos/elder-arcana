@@ -1,6 +1,11 @@
 ---
 tags:
   - art/fire
+title: Art of Fire
+aliases:
+  - Art of Fire
+cssclasses:
+  - document--no-title
 ---
 The elemental forces of fire, heat, and light. Supernatural fires that are not created by igniting existing materials do not spread. Botches usually result in an unintended target or intensity. 
 

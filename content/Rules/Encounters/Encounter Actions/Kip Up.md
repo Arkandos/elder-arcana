@@ -1,6 +1,6 @@
 ---
 tags:
-  - actions/major
+  - actions/minor
   - keywords/basic
 ---
 **Kip Up \[Basic\]**  
