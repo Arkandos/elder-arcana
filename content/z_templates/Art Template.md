@@ -14,7 +14,3 @@ Tier 1 Exploration Effects
 
 ---
 *Created {{date}}*
-
-
-
-
