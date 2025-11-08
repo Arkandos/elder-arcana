@@ -1,3 +1,7 @@
+---
+tags:
+  - Setting
+---
 The many sentient species of Coret are referred to as Kith, and all have the capability to become weavers. What follows is some brief information about the most common types of kith.
 #### Humans
 **Humans** are one of the most numerous races of Coret. Despite their short lifespans, humans are a force to be reckoned with. They learn and adapt quicker than any other kith, and have a natural aptitude for riding. Humans can be found in almost any society, and their adaptability makes them get along with most other kith.
@@ -9,6 +13,8 @@ The many sentient species of Coret are referred to as Kith, and all have the cap
 **Giantbloods** or half-giants is a common term for all those who have heritage stemming from the larger folk. Larger, stronger and tougher than the average kith, giantbloods are well renowned warriors that take pride in honor and valor. While less perceptive than the average kith, they are far more quickwitted than the giants they hail from. Giantblood communities are usually nomadic tribes that spend a surprising amount of time trading with other tribes and communities. Giantbloods that enter other kith societies find themselves welcome, but that their size often causes problems. Giantbloods and sprites have a special kinship, sharing both humour and troubles of size.
 #### Sprites
 **Sprites** are tiny winged humanoids about the size of a rabbit. They are quick, and have a special aptitude for influencing other kith. Sprites claim that it’s due to their cute size and positive demeanor, but anyone knowledgeable about sprites knows that the true reason is due to their faerie origins. Sprites are all glamour-clad, with some being true cognizant faeries and others just having strong faerie blood. Sprite societies are very uncommon, consisting of at most a couple of families. Instead, they usually prefer to spread themselves out into the communities of other kith, where their trickster nature is more or less welcome. Giantbloods and sprites have a special kinship, sharing both humour and troubles of size.
+
+Sprites as player characters are mortal kith with strong faerie blood and not [[Faerie Creatures|true faeries]].
 #### Mythkin
 **Mythkin** is a catchall term for those individuals who have magic in their blood since birth. They seem to have fate’s favor, being blessed with natural luck and resistance to hostile magic. Depending on the society, mythkin are praised as good luck charms or shunned as a magnet that draws luck away from others. Many mythkin have a natural aversion to others of their kin, meaning it takes a special connection for them to congregate.
 #### Shifters

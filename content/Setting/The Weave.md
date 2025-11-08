@@ -1,3 +1,7 @@
+---
+tags:
+  - Setting
+---
 The Weave is how magical manifestations are described, as a complex web of magical flows intertwined. Those with the capability to see the raw Weave (like with the Weave Watcher ability) see these magical energies all around them, and can with training inspect particular weaves to understand their function.
 
 Not everyone is capable of interacting with the Weave. It requires either significant training or supernatural circumstances to become capable, but in this new era these occurrences become increasingly prevalent. How an individual interacts with the Weave is individual, and depends on how their magical effects express themselves. 

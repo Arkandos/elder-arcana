@@ -1,3 +1,7 @@
+---
+tags:
+  - Setting
+---
 # Neutral pantheon
 
 These gods do not interfere much in the goings on of the mortal world. Indeed, they seem to not care much at all.

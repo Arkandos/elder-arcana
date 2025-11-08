@@ -1,3 +1,7 @@
-The world of Coret is at the dawn of a new golden era. Magic surges through the world at heights never seen before, causing havoc and wonders. Empires expand and fall under the new circumstances of an unstable world. Magical creatures abound, spirits within the elements are awoken, and the essence of magic is more readily available than ever before.
+---
+tags:
+  - Setting
+---
+The world of Coret is at the dawn of a new golden era. [[The Weave|Magic]] surges through the world at heights never seen before, causing havoc and wonders. Empires expand and fall under the new circumstances of an unstable world. Magical creatures abound, spirits within the elements are awoken, and the essence of magic is more readily available than ever before.
 
-The Weave infuses more people than ever before, and propels them to new magical heights.
+[[The Weave]] infuses more people than ever before, and propels them to new magical heights.
