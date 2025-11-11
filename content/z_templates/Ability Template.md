@@ -1,6 +1,8 @@
 ---
 tags:
   - ability/tier1
+  - actions/major
+  - effects/social
 ---
 # Parry \[Enhance\] \[Force\] \[Blood\] \[Evade\]
 Tier 1. Prerequisite:

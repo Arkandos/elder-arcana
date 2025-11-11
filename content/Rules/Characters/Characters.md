@@ -27,20 +27,19 @@ When assigning your starting Attributes, you have 10 points to spend. Costs incr
 ## Statistics
 Statistics are derived from your attributes and cannot be directly improved.  
 
-
-| Statistic                    | Value                                | Description                                                                                                                |
-| ---------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| Health                       | 20 + <br>2 * STA                     | How much damage you can suffer before going unconscious or dying.                                                          |
-| Speed                        | 10 + DEX                             | How many meters you can move each [[Rules/Encounters/index\|round]].                                                                   |
-| Initiative                   | 3 + DEX                              | How fast your reactions are in stressful [[Rules/Encounters/index]]                                                                    |
-| Physical Defense             | 6 +<br>STR+DEX                       | How difficult you are to hit in physical combat                                                                            |
-| Magic Defense                | 6 +<br>INT+WIL                       | How difficult you are to hit in magical combat                                                                             |
-| Mental Defense               | 6 + PRE                              | How difficult you are to manipulate emotionally                                                                            |
-| Physical & <br>Magical Armor | STA +<br>[[Rules/Characters/Equipment/index#Armors\|Armor]] | Reduces the damage you take by this amount.                                                                                |
-| Weave pool                   | 3 + INT<br>(min 1)                   | Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health. |
-| Mythos pool                  | 3 + WIL                              | Used to reroll Tests. Refreshes every day.                                                                                 |
-| Recoveries                   | 1 + STA$^+$                          | Determines how many times per day you can heal damage.                                                                     |
-| Recovery<br>value            | 1 +<br>2 + STA$^+$                   | Determines how much each Recovery spent heals you.                                                                         |
+| Statistic                    | Value                                                       | Description                                                                                                                |
+| ---------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Health                       | 20 + <br>2 * STA                                            | How much damage you can suffer before going unconscious or dying.                                                          |
+| Speed                        | 10 + DEX                                                    | How many meters you can move each [[Rules/Encounters/index\|round]].                                                       |
+| Initiative                   | 3 + DEX                                                     | How fast your reactions are in stressful [[Rules/Encounters/index\|Encounters]]                                            |
+| Physical Defense             | 6 +<br>STR+DEX                                              | How difficult you are to hit in physical combat                                                                            |
+| Magic Defense                | 6 +<br>INT+WIL                                              | How difficult you are to hit in magical combat                                                                             |
+| Mental Defense               | 6 + PRE                                                     | How difficult you are to manipulate emotionally                                                                            |
+| Physical & <br>Magical Armor | STA +<br>[[Rules/Characters/Equipment/index#Armors\|Armor]] | Reduce the damage you take by this amount.                                                                                 |
+| Weave pool                   | 3 + INT<br>(min 1)                                          | Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health. |
+| Mythos pool                  | 3 + WIL                                                     | Used to reroll Tests. Refreshes every day.                                                                                 |
+| Recoveries                   | 1 + STA$^+$                                                 | Determines how many times per day you can heal damage.                                                                     |
+| Recovery<br>value            | 1 +<br>2 + STA$^+$                                          | Determines how much each Recovery spent heals you.                                                                         |
 
 ## Abilities
 There are many Abilities in Elder Arcana. Most tests involve adding one [[#Attributes|Attribute]] score, and one Ability Rank. However this relation between them is not set in stone unless called for by an ability. Certain situations may call upon you to use a different Attribute with the Ability.  

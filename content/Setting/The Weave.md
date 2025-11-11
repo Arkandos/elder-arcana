@@ -6,10 +6,10 @@ The Weave is how magical manifestations are described, as a complex web of magic
 
 Not everyone is capable of interacting with the Weave. It requires either significant training or supernatural circumstances to become capable, but in this new era these occurrences become increasingly prevalent. How an individual interacts with the Weave is individual, and depends on how their magical effects express themselves. 
 
-Almost all weavers have one aspect in common, the power of voice and gestures. They both hold a lot of power when it comes to expressing the Arts. A weaver trained in Nature might cause plants to grow with just their voice, a Fire weaver create flame with a snap of their fingers. While any weaver can access these direct methods, with training they can also learn to create more complex effects named spells (using the Weaving ability). 
+Almost all weavers have one aspect in common, the power of voice and gestures. They both hold a lot of power when it comes to expressing [[#The Arts]]. A weaver trained in Nature might cause plants to grow with just their voice, a Fire weaver create flame with a snap of their fingers. While any weaver can access these direct methods, with training they can also learn to create more complex effects named spells (using the [[Weaving]] ability). 
 
 The higher the complexity and potency of a weave, the easier it is to detect but harder to understand.  
-A powerful Enchantment placed on a noble is easily detected with weave sight as its magical footprint makes it stand out. However its complexity causes it to be difficult to determine its effects as there are many ‘threads’ of magic to follow.  
+A powerful Mind effect placed on a noble is easily detected with weave sight as its magical footprint makes it stand out. However its complexity causes it to be difficult to determine its effects as there are many ‘threads’ of magic to follow.  
 Inversely a weak Illusion is hard to detect, easily confused as background noise. But once investigated, its simple construction is easy to understand.  
 The same pattern goes for the residues left behind by weaves. A powerful effect leaves a trace that can be detected for a long time, while a weak effect can vanish almost immediately.  
 No matter how well woven, a particular weave unravels over time as the threads return to the flow. Once broken, its magical presence fades and only a residue remains behind.

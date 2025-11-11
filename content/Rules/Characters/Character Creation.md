@@ -4,4 +4,4 @@
    4. Assign the numbers from the following array as the Rank of any [[Rules/Characters/Abilities/Tier 0/index|Base Abilities]] you wish: 3, 3, 2, 2, 1, 1  
 5. Spend 25 Experience on any Abilities of Tier 1, or Base Abilities.  
 6. Spend 20 Art points on any [[Rules/Characters/Arts of Arcana/index|Arts]], and pick 3 powers from among those Arts.   
-7. Spend 150 silver on starting [[Rules/Characters/Equipment/index]].
+7. Spend 150 silver on starting [[Rules/Characters/Equipment/index|Equipment]].
