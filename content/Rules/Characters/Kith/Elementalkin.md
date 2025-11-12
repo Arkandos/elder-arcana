@@ -11,10 +11,9 @@ Elementalkin is the term for those attuned to one of the four elements. Thus the
 	- Lore (Magic) (1)
 	- Traverse (1)
 - Special traits (Choose one type):
-	- Air: \+1 INT, \-1 STA. \+4 Speed. You have Fortune when climbing, jumping, or landing.  
-	* Earth: \+1 STR, \+1 STA. \-1 Speed. You have Fortune when climbing.
-	  +2 bonus to Knockdown tests.  
-	* Fire: \+1 PRE, \-1 STR. \+2 Speed. You have Fortune when jumping.  
+	- Air: +1 INT, -1 STA. +4 Speed. You have Fortune when climbing, jumping, or landing.  
+	* Earth: +1 STR, +1 STA. -1 Speed. You have Fortune on climbing and Knockdown Tests.  
+	* Fire: +1 PRE, -1 STR. +2 Speed. You have Fortune when jumping.  
 	  +2 bonus to Recovery value.  
 	* Water: +1 DEX, -1 WIL. You have Fortune while swimming, and have a swim speed equal to your speed. You can breathe under water for an hour without issue.
 	  +2 Weave.

@@ -1,11 +1,11 @@
 ## Attributes
 Every character has X number of attributes with scores from \-3 to \+3, starting out at 0\.
 1. Strength (STR)
-	1. Physical prowess, raw power. Strength improves the damage of your weapons, your carrying capacity, what equipment you can use, and adds to your Physical Defense.  
+	1. Physical prowess, raw power. Strength improves the damage of your weapons, your carrying capacity, what equipment you can use, Rally against physical ailments, Knockdown tests and adds to your Physical Defense.  
 2. Dexterity (DEX)  
 	1. Agility, finesse and quickness. Dexterity improves the accuracy of your weapons, your Speed, Initiative tests, and adds to your Physical Defense.  
 3. Stamina (STA)  
-	1. Endurance, constitution. Stamina increases your Health, Rallies you against physical ailments, reduces the damage you take, and determines your daily Recoveries.  
+	1. Endurance, constitution. Stamina increases your Health, reduces the damage you take, and determines your daily Recoveries.  
 4. Intelligence (INT)  
 	1. Analysis, observation. Intelligence improves the potential of your magic, the range of certain abilities, increases your Weave, and adds to your Magic Defense. 
 5.  Willpower (WIL)  

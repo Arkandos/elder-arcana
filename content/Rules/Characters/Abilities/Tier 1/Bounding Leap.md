@@ -1,0 +1,21 @@
+---
+tags:
+  - ability/tier1
+  - actions/free
+  - effects/social
+  - keywords/blood
+  - effects/mobility
+  - ability/traverse
+---
+# Bounding Leap \[Enhance\] \[Body\] \[Blood\]
+Tier 1.
+Free action. 1 Health.
+
+Trigger: An attack hits you.
+Effect: Make a DEX+Rank Test against the triggering attack result. Success means the attack misses you instead, and if your initiative is higher than the target you may counterattack. This is a Melee Strike using this Rank in place of the normal Rank.  
+Evade: You can only use one Evade ability against a particular effect.
+
+This Ability may be reversed
+
+---
+*Created 2025-11-12*

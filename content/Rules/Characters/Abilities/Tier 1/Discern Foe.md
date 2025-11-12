@@ -2,7 +2,9 @@
 tags:
   - ability/tier1
   - actions/minor
-  - effects/social
+  - effects/support
+  - ability/general
+  - keywords/blood
 ---
 # Discern Foe \[Perceive\] \[Body\] \[Blood\]
 Tier 1.

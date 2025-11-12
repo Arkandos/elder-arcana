@@ -5,13 +5,15 @@ tags:
   - actions/reaction
   - effects/offense
   - powers/strike/ranged
-  - todo/rework
+  - keywords/blood
 ---
-# Piercing Missile \[Enhance\]
+# Piercing Missile \[Enhance\] \[Force\] \[Blood\]
 Tier 1\. Prerequisite: [[Weapons (Ranged)]] 1  
-Reaction. 1 Weave.  
-Trigger: You Defeat an enemy with a Ranged Strike.  
-Effect: Draw a line from you through the target. Deal half the triggering damage to another creature in the same line within Medium range of the target.
+Free Action. 1 Health.
+Trigger: You make a Ranged Strike
+Effect: Draw a 1m wide line from you through the target up to your first Weapon range. After the triggering Strike has resolved, continue making Ranged Strikes against targets in the line using this Rank instead of Weapons (Ranged), to a maximum of Rank additional targets. Each additional target imposes a cumulative -2 penalty (so -2 on the first, -4 on the second etc.)
+
+This uses the same ammunition as the triggering Strike, but otherwise carries over no special effects to the secondary attacks.
 
 ---
 *Created 2025-11-07*
