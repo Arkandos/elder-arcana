@@ -4,6 +4,7 @@ tags:
   - ability/command
   - actions/major
   - actions/minor
+  - effects/support
 ---
 # Scare \[Control\] \[Mind\]
 Tier 1\. Prerequisite: [[Command]] 1\.  

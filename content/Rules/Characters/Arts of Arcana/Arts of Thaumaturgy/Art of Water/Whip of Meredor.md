@@ -15,7 +15,7 @@ Effect: Make a WIL+Rank (6) Test. Success creates the following Weapon you can u
 >Enhance Weave: Increase range before multiplication by 2 (2); increase damage by 2 (1); increase push distance by 2m (2)
 
 Whip of Meredor \[Weapon\] \[Bound\]
-(2 \+ INT) \* 2m range. 4+1d6+1d6/WIL Physical Damage. A Target that takes damage is pushed (WIL+Rank)m.
+(2 \+ INT) \* 2m range. 1 hand. 4+1d6+1d4/WIL Physical Damage. A Target that takes damage is pushed (WIL+Rank)m.
 
 
 ---

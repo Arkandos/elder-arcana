@@ -14,7 +14,7 @@ Arts of Arcana are split into two parts. The actual Art, which gives you access 
 The Exploration Effects listed for an Art are suggestions for things you can accomplish using that Art, and not a definitive list. However, creating spectacular Art effects may require additional costs as negotiated with the GM. This could be a roll using the art where there is a risk it goes wrong, an expenditure of Health, binding Weave for an extended period or any combination thereof.  
 In general, Exploration Effects can only directly affect things you are aware of. This means you cannot target a creature hiding behind a wall, but you could create a gust of wind that blows in their direction.
 
-When an Art refers to a [[Rules/Encounters/index#Distance & Areas|special Range]], it always uses the Art Rank to determine the distance.
+When an Art or power refers to a [[Rules/Encounters/index#Distance & Areas|special Range]], it always uses the Art Rank to determine the distance. Powers always use their parent Art when referencing Rank.
 
 | Art Rank | Art points to raise from previous rank | Art points cost from rank 0 |
 | :---- | :---- | :---- |

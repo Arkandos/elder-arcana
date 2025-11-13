@@ -19,7 +19,3 @@ Tier 1 Exploration Effects
 
 ---
 *Created 2025-11-07*
-
-
-
-
