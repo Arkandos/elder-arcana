@@ -7,7 +7,7 @@ tags:
   - keywords/blood
   - effects/reversible
 ---
-# Trail Unseen \[Perceive\] \[Earth\] \[Blood\]
+# Trail Unseen \[Sense\] \[Earth\] \[Blood\]
 Tier 1. Prerequisite: [[Survival]] 1.
 Major Action. 3 Health.
 Effect: You may follow a visible track beyond their normal limits. Make a WIL+Rank Test to follow the tracks, the TN increasing depending on how long ago they were made.  

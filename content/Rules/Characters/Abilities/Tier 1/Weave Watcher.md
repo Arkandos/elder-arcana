@@ -6,7 +6,7 @@ tags:
   - ability/general
   - effects/support
 ---
-# Weave Watcher \[Perceive\] \[Esoteric\]
+# Weave Watcher \[Sense\] \[Esoteric\]
 Tier 1\.  
 Major Action. 1 Health.  
 Effect: Make an INT+Rank Test. For Rank rounds, you can see the Weave as if it was material. The fainter or weaker a Weave is, the higher the required Test result is.  

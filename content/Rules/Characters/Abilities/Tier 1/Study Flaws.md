@@ -6,7 +6,7 @@ tags:
   - effects/support
   - keywords/blood
 ---
-# Study Flaws \[Perceive\] \[Blood\]
+# Study Flaws \[Sense\] \[Blood\]
 Tier 1\. Prerequisite: [[Study]] 1  
 Major Action. 1 Health.  
 1 creature you can see.  

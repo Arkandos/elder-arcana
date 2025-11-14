@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Rules/Characters/Abilities/Tier 2")
+        - '!file.name.contains("index")'
+    order:
+      - file.name

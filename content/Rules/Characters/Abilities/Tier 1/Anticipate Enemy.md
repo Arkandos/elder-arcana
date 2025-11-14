@@ -7,7 +7,7 @@ tags:
   - effects/offense
   - keywords/blood
 ---
-# Anticipate Enemy \[Perceive\] \[Illusion\] \[Blood\]
+# Anticipate Enemy \[Sense\] \[Illusion\] \[Blood\]
 Tier 1\. Prerequisite: [[Awareness]] 1  
 Minor Action. 1 Health.  
 Effect: Make an INT+Rank Test against the Magic Defense of an enemy with lower Initiative than you. Every success gives you a \+2 bonus to Physical Defense against them until the end of the round, and an equal bonus to your next attack against them this turn.  

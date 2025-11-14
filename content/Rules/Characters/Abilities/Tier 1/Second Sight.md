@@ -6,7 +6,7 @@ tags:
   - ability/general
   - effects/reversible
 ---
-# Second Sight \[Perceive\] \[Illusion\]
+# Second Sight \[Sense\] \[Illusion\]
 Tier 1\.  
 Major Action. 1 Health.
 Effect: Make an INT+Rank Test. For Rank minutes, you can see incorporeal spirits. Those that are formless appear to you in a way that your mind could understand them. For example, a disembodied faerie stag could appear as a vague 4-legged animal.

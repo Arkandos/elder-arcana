@@ -8,7 +8,7 @@ tags:
   - powers/strike/melee
 ---
 # Mystic Edge \[Transmute\] \[Esoteric\] \[Blood\]
-Tier 1\. Prerequisite: Weapons (Melee) 1  
+Tier 1\. Prerequisite: [[Weapons (Melee)]] 1  
 Major Action. 2 Health.  
 Effect: Make a Melee Strike, using this Rank in place of the normal Rank. It targets Magic Defense.
 
