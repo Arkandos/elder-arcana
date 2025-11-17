@@ -15,7 +15,7 @@ There are multiple types of area targeting in encounters. These include bursts (
 Creatures have a directional facing in this game, which must be in an intercardinal direction. Whenever you take an action or end your movement, you may change your facing. In general, you must face in the direction of whatever you are affecting. If you attack a creature from behind, you flank them (see [[Conditions & Modifiers]]))  
 You may change your facing to react to an action of another character out of turn any number of times. However, all enemies in your rear facing (before you change it) may make an [[Opportunity Attack]] against you.
 ## Rally
-Certain effects allow you to Rally against them, ending them on a successful test. At the end of your turn when you are affected by a Rally effect you may make an associated Test, ending it on a success.
+Certain effects allow you to [[Rally]] against them, ending them on a successful test. At the end of your turn when you are affected by a Rally effect you may make an associated Test, ending it on a success.
 ## Actions
 During an encounter, the way you can act is limited. You can move a number of meters equal to your Speed called a [[Stride]], but must use it all before or after taking an action (unless splitting movement, see Stride)  
 During your turn, you can take a Major action and a Minor action.  

@@ -8,14 +8,14 @@ cssclasses:
 Mundane equipment is not strictly defined, but are instead part of different categories. When picking a piece of equipment, choose what form it takes. Costs are listed in silver pennies.
 # Armors
 
-| Armor | Cost | Physical Armor | Magic Armor | Initiative penalty | Weight | Examples |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Agile | 20 | 2 | 0 | 0 | 2 | Quilted / fur |
-| Light | 40 | 4 | 0 | 1 | 4 | Hide |
-| Medium | 100 | 4 | 1 | 2 | 5 | Ringmail |
-| Medium (Full) | 120 | 5 | 2 | 3 | 6 | Helmet |
-| Heavy | 1000 | 6 | 2 | 3 | 5 | Chainmail |
-| Heavy (Full) | 1200 | 7 | 3 | 4 | 7 | Helmet |
+|     Armor     | Cost | Physical Armor | Magic Armor | Initiative penalty | Weight |   Examples    |
+| :-----------: | :--: | :------------: | :---------: | :----------------: | :----: | :-----------: |
+|     Agile     |  20  |       2        |      0      |         0          |   2    | Quilted / fur |
+|     Light     |  40  |       4        |      0      |         1          |   4    |     Hide      |
+|    Medium     | 100  |       4        |      1      |         2          |   5    |   Ringmail    |
+| Medium (Full) | 120  |       5        |      2      |         3          |   6    |    Helmet     |
+|     Heavy     | 1000 |       6        |      2      |         3          |   5    |   Chainmail   |
+| Heavy (Full)  | 1200 |       7        |      3      |         4          |   7    |    Helmet     |
 
 # Shields
 
@@ -56,5 +56,5 @@ While there is no need to detail every single thing you carry on you, some gener
 | Medicine Kit (Bandages, herbal treatments, poison testing kit)          |  50  |   2    |
 | Rope (6m)                                                               |  10  |   2    |
 | Traversal Kit (Rope, pitons, hammer, grappling hook, breathing sponge)  |  25  |   5    |
-| Torch (treated)                                                         | 0,5  |   0    |
+| Torch (treated)                                                         | 0,5  |  0,5   |
 | Rations (1 week)                                                        |  5   |   1    |

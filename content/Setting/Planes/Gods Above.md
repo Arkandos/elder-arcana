@@ -31,18 +31,14 @@ Water, moon, disease, healing. General fluids.
 Appears as an older woman in simple but brightly coloured clothing. Her hair appears to be made of gently flowing water.  
 One of the oldest of Corets deities, having arisen in the early stages of creation before land or sky. A common religious symbol are two rivers that meet and form a droplet.  
 Theelia is kind and gentle to those she cares about, but brings her wrath to bear against those who harm her protectorates.
-
 ## Sajun - God of Light 
 Forgiveness, tranquility.
-
 ## Phaedromus - God of Order
 Civilization, construction, crafting, law, memory. Nemesis of Qiarin. Husband of Vatinia.
-
 ## Chalter - God of Travel 
 Travel, music, impulse, doorways.  
 Once a mortal human minstrel and storyteller. Legend goes that he travelled around the wide world, seeing the wonders and terrors of Coret. At some point, he must have travelled beyond the confines of the material and into the astral plane.   
 Chalter is impulsive and lackadaisical, believing that one's heart's desires can be found at the end of the road, or over the next hill. The journey is what matters, not the destination. His acts are not random however, he aids those whose journeys would be enhanced by it.
-
 ## Vatinia - Goddess of Nature
 Nature, children, wisdom, hunting, animals. Wife of Phaedromus.  
 

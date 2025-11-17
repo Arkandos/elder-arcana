@@ -1,0 +1,1 @@
+At the end of your turn when you are affected by a Rally effect you may make an associated Test, ending it on a success. Rally WIL (5) would mean you need to make a WIL Test against a target number of 5.

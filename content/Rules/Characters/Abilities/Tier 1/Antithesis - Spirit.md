@@ -6,7 +6,7 @@ tags:
   - ability/lore
   - effects/reversible
 ---
-# Antithesis - Elemental \[Ward\] \[Force\]
+# Antithesis - Spirit \[Ward\] \[Force\]
 Tier 1. Prerequisite: [[Lore]] (Any but history) 1
 Major Action. 3 Weave.  
 Effect: Choose a spirit within Medium range. Make a WIL+Rank Test against their Magic Defense. Success means they are immobilized and unable to act other than communicate as long as you Focus (Major) on this effect.

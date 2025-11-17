@@ -45,3 +45,21 @@ Statistics are derived from your attributes and cannot be directly improved.
 There are many Abilities in Elder Arcana. Most tests involve adding one [[#Attributes|Attribute]] score, and one Ability Rank. However this relation between them is not set in stone unless called for by an ability. Certain situations may call upon you to use a different Attribute with the Ability.  
 Abilities are divided into [[Rules/Characters/Abilities/Tier 0/index|Base Abilities]] (Tier 0), and Adept Abilities (Tier 1 and above). Anyone can use a Base Ability (even at Rank 0\) unless it has an \* next to its name, meaning that it can only be used if you have at least one Rank in that ability.  
 Adept Abilities can only be used if you have at least one Rank in them.
+
+# Encumbrance
+If your total weight exceeds your carrying capacity, you are encumbered. 
+
+| STR | Carrying capacity |     | Strength | Carrying capacity |
+| --- | ----------------- | --- | -------- | ----------------- |
+| 0   | 15                |     | 0        | 15                |
+| +1  | 20                |     | -1       | 13                |
+| +2  | 25                |     | -2       | 11                |
+| +3  | 30                |     | -3       | 9                 |
+| +4  | 40                |     | -4       | 7                 |
+| +5  | 55                |     | -5       | 6                 |
+
+|            Total Weight            |    Encumbrance     |                                        Effect                                         |
+| :--------------------------------: | :----------------: | :-----------------------------------------------------------------------------------: |
+|        Up to carry capacity        |    Unencumbered    |                                         None                                          |
+| Between capacity and 150% capacity |     Encumbered     |              Speed halved, [[Conditions & Modifiers#Battered\|Battered]]              |
+|      More than 150% capacity       | Heavily encumbered | Speed is 2 (or less), all defenses reduced to 2, can only take movement related Tests |

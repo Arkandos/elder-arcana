@@ -1,0 +1,1 @@
+You can pay the Weave cost over multiple turns by using Free actions on your turn. It doesn't take effect until all the Weave has been paid.
