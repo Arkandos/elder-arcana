@@ -11,5 +11,5 @@ Shifter is the term for all those shape changers that lurk among kith. Naturally
 	- Language (2): Shifter + any other common language
 	- Stealth (1)
 - Special traits:
-	- Shapechanger: As a Major action you may spend 2 Weave to change how you look to any other type of Kith. You may become any Size between Small (-4 Speed, \-1 STR, \+2 Physical Defense) and Large (+2 Speed, \+2 Dmg, 3 temporary health/Echelon). Imitating a specific individual is a Presence+Guile Test.  
+	- Shapechanger: As a Major action you may spend 2 Weave to change how you look to any other type of Kith. You may become any Size between Small (-4 Speed, \-1 STR, \+2 Physical Defense) and Large (+2 Speed, \+2 Dmg, 3 [[Barrier]]/Echelon). Imitating a specific individual is a Presence+Guile Test.  
 	  As a Minor action, you may adjust your attributes, gaining a \+1 bonus to one attribute and a \-1 to its opposite. This lasts until you use this Minor action again. Opposed attributes: STR-INT, DEX-WIL, STA-PRE.

@@ -9,7 +9,7 @@ tags:
 # Stumblestrike \[Power\] \[Control\] \[Body\] 
 Major Action. 1 Weave.
 Effect: Make a Strike. On a Success, the target's Speed is reduced by STR+Rank until the end of the round.
-You may spend additional successes on the Melee strike on these effects:
+You may spend additional successes on the Strike on these effects:
 >Additional Successes: Decrease the targets speed by 2; extend the duration to the end of the next round.
 
 

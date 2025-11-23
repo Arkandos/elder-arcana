@@ -8,7 +8,7 @@ tags:
 # Shield Bash \[Create\] \[Force\] \[Blood\]
 Tier 1
 Free action (up to Rank times / round). 1 Health.
-Trigger: You hit with a melee attack while wielding a shield.
+Trigger: You hit with a Melee Strike while wielding a shield.
 Effect: Add this Rank to the damage dealt by the attack. The target must make a Knockdown Test against the damage they take.
 
 ---

@@ -7,7 +7,7 @@ aliases:
 cssclasses:
   - document--no-title
 ---
-Manipulate inanimate material, usually incapable of affecting magical material. Botches may result in an unwanted transformation, problematic fault in the creation, or receiving faulty information.
+Manipulate inanimate material, usually incapable of transforming magical material. Botches may result in an unwanted transformation, problematic fault in the creation, or receiving faulty information.
 
 Tier 1 Exploration Effects
 

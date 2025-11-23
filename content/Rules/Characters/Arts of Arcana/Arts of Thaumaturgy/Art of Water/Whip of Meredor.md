@@ -5,7 +5,6 @@ tags:
   - actions/major
   - effects/offense
   - keywords/bound
-  - powers/strike/melee
 ---
 # Whip of Meredor \[Power\] \[Create\] \[Water\] \[Bound\]  
 Major Action. 3 Weave  

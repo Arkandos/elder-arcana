@@ -6,13 +6,12 @@ Giantbloods, or half-giants is a common term for all those who have heritage of 
 - Attribute changes: 
 	- \+2 STR, \+1 STA, max STR & STA increased by the same.
 	- \-2 INT, \-1 DEX, min INT & DEX decreased by the same.
-- Speed modifier: +2
+- Speed modifier: none
 - Size:	Large
 - Starting abilities:
-	- Brawl (2)
+	- Brawl (1)
 	- Command (1)
 	- Language (1): Giant
 - Special traits:
-	- Tough Skin: \+2 Physical Armor.  
-	* Large and in Charge: You suffer a \-6 penalty to Stealth, but gain a \+2 to Melee attacks in any round you have moved 10 or more meters. Your Melee range is doubled, and you add \+4 to any forced movements you cause.  
+	* Large and in Charge: You suffer a \-6 penalty to Stealth, but gain a \+2 to Melee attack against any target you have moved 10m towards this round. Your Melee range is doubled, and you add \+4 to any forced movements you cause.  
 	* Giant Defender: It takes an additional enemy to flank you.

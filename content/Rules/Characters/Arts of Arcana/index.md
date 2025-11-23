@@ -16,6 +16,8 @@ In general, Exploration Effects can only directly affect things you are aware of
 
 When an Art or power refers to a [[Rules/Encounters/index#Distance & Areas|special Range]], it always uses the Art Rank to determine the distance. Powers always use their parent Art when referencing Rank.
 
+You may only spend [[Rules/Characters/Abilities/index|Experience]] and Art Points during [[Downtime]], but you can still undertake another activity at the same time.
+
 | Art Rank | Art points to raise from previous rank | Art points cost from rank 0 |
 | :---- | :---- | :---- |
 | 1 | 5 | 5 |

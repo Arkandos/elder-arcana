@@ -6,4 +6,4 @@ tags:
 ---
 **Channel \[Basic\]**  
 Major Action. 1 Health.  
-Effect: You regain 3+INT Weave.
+Effect: You regain 3+INT$^+$ Weave.

@@ -7,7 +7,7 @@ Elementalkin is the term for those attuned to one of the four elements. Thus the
 - Speed modifier: none (see traits)
 - Size:	Medium
 - Starting abilities:
-	- Language (1): Elemental tongue of type
+	- Language (1): Elemental tongue of type.  This means you can speak with elementals of your type without needing [[Elemental Speech]].
 	- Lore (Magic) (1)
 	- Traverse (1)
 - Special traits (Choose one type):

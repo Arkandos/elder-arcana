@@ -11,7 +11,7 @@ tags:
 # Bounding Leap \[Control\] \[Force\] \[Blood\]
 Tier 1.
 Free action. 1 Health.
-Effect: Make a DEX+Rank Test. The result is how many meters you may jump during your next Stride this turn. Divide the distance between vertical and horizontal as you wish.
+Effect: Make a DEX+Rank Test. The result is how many meters you may jump during your next Stride this turn. Divide the distance between vertical and horizontal as you wish. The distance jumped 'spends' your movement during the Stride, so the maximum distance is equal to your Speed.
 
 You may also use this ability to dodge environmental hazards, or save yourself while falling. In that case, make a DEX+Traverse Test - Initiative penalty against a TN set by the GM. Success means you leap out of the way as above.
 

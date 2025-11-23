@@ -8,7 +8,7 @@ tags:
   - todo/rework
 ---
 # Exerting Strike \[Power\] \[Control\] \[Blood\] 
-Major Action. 2 Health.
+Major Action. 1 Health.
 Effect: Make a Strike with a +2 bonus to attack. If you hit, you may spend up to Rank Health to deal twice that much additional damage.
 
 ---

@@ -12,7 +12,7 @@ Rank determines how invested you are in an ability, while Tier sets restrictions
 
 # Ability Advancement
 
-During the game, you can unlock new Abilities and improve the Rank of your existing ones by spending experience. Once you have Rank 1 of an Adept Ability, you may use it.
+During the game, you can unlock new Abilities and improve the Rank of your existing ones by spending experience. Once you have Rank 1 of an Adept Ability, you may use it. You may only spend Experience and [[Rules/Characters/Arts of Arcana/index|Art points]] during [[Downtime]], but you can still undertake another activity at the same time.
 
 | To purchase rank | Experience cost to raise from previous rank | Total Experience cost from rank 0 |
 | :---- | :---- | :---- |

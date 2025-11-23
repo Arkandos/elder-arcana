@@ -8,7 +8,7 @@ tags:
 ---
 # Ice Slick \[Power\] \[Spell\] \[Create\] \[Water\]  
 Major Action. 3 Weave  
-(2+WIL)m radius burst within (20 \+ 2 \* INT)m, all creatures  
+(1+WIL)m radius burst within (20 \+ 2 \* INT)m, all creatures  
 Attack: INT+[[Weaving]] vs Physical Defense  
 Effect: Any target you succeed against must make a Knockdown (5 + Rank) Test.  
 The burst becomes a Zone for 1 round. Anyone that is forcefully moved onto the Zone, or moves onto it with more than half their Speed must make the above Knockdown Test.  

@@ -23,7 +23,7 @@ A botched attack may cause you to drop your weapon, a botched conversation may e
 ## Bonus dice
 Some abilities may grant bonus dice to a type of roll or test. They are listed as \+1d6, denoting how many and what size to roll. Bonus dice can never explode or botch. 
 ## Time
-Time is an important resource in **Elder Arcana** and has some special definitions here. In [[Rules/Encounters/index]], time and the order of operations matters the most. An encounter round is 6 seconds, meaning there are 10 rounds per minute. While in [[Exploration]] mode, most actions take one phase which is 10 minutes. [[Downtime]] which happens between adventures is measured in months.
+Time is an important resource in **Elder Arcana** and has some special definitions here. In [[Rules/Encounters/index|Encounters]], time and the order of operations matters the most. An encounter round is 6 seconds, meaning there are 10 rounds per minute. While in [[Exploration]] mode, most actions take one phase which is 10 minutes. [[Downtime]] which happens between adventures is measured in months.
 ## Order of Resolution
 If there ever is a conflict between multiple effects occurring at the same time, resolve them in the following priority:
 1) First resolve all negative effects that would apply  
@@ -64,7 +64,7 @@ To recover Health, you use Recoveries. During an Exploration Phase, you may spen
 Recoveries are a measure of how much you can heal each day. You have a certain amount of Recoveries that you can spend each day. Once you take a [[Exploration|rest]], you regain all your Recoveries.
 Spending a Recovery means rolling `1d10 + recovery value - Wound penalty` and recovering that much Health.
 ### Wounds  
-Whenever you take damage in a single instance equal to a third or more of your maximum Health, your wounds increase in severity and you must make a [Knockdown](#bookmark=id.l3hixbco5di8) test. The severity of wounds increases from nothing \-\> Light \-\> Medium \-\> Heavy.
+Whenever you take damage in a single instance equal to a third or more of your maximum Health, your wounds increase in severity and you must make a [[Knockdown]] test. The severity of wounds increases from nothing \-\> Light \-\> Medium \-\> Heavy.
 
 | Wound | Penalty |
 | :---: | :---: |

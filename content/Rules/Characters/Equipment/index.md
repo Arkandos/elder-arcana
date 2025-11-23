@@ -31,17 +31,17 @@ Mundane equipment is not strictly defined, but are instead part of different cat
 
 Mundane Weapons are not strictly defined, but are instead part of different categories. When picking a Weapon, choose what form it takes.
 
-| Weapon                      | Hands | Min STR | Damage         | Weight | Cost | Examples          |
-| :-------------------------- | :---- | :------ | :------------- | :----- | :--- | :---------------- |
-| Brawling                    | n/a   |         | 1d6+STR        | n/a    | n/a  |                   |
-| Light Melee                 | 1     | \-3     | 1d6+STR$^+$    | 0      | 5    | Dagger, sap       |
-| 1h Melee                    | 1     | 0       | 4+1d6+STR      | 1      | 20   | Sword, mace       |
-| Heavy Melee                 | 2     | 1       | 4+1d6+1d4/STR | 2      | 40   | Greatsword, flail |
-| Reach Melee\*\*             | 2     | 0       | 4+1d6+ 2\*STR  | 3      | 60   | Poleaxe, halberd  |
-|                             |       |         |                |        |      |                   |
-| Light Ranged (2-10 / 11-20) | 1     | \-3     | 1d6+STR        | 1      | 5    | Sling, javelin    |
-| Short-ranged (2-20 / 21-40) | 2     | \-1     | 2+1d6+STR      | 2      | 15   | Shortbow          |
-| Long-ranged (2-40 / 41-80)  | 2     | 2       | 6+1d4/STR      | 2      | 60   | Longbow           |
+| Weapon                      | Hands | Min STR | Damage        | Weight | Cost | Examples          |
+| :-------------------------- | :---- | :------ | :------------ | :----- | :--- | :---------------- |
+| Brawling                    | n/a   |         | 1d6+STR       | n/a    | n/a  |                   |
+| Light Melee                 | 1     | \-3     | 1d6+STR$^+$   | 0      | 5    | Dagger, sap       |
+| 1h Melee                    | 1     | 0       | 4+1d6+STR     | 1      | 20   | Sword, mace       |
+| Heavy Melee                 | 2     | 1       | 4+1d6+1d4/STR | 2      | 40   | Greatsword, flail |
+| Reach Melee\*\*             | 2     | 0       | 4+1d6+ 2\*STR | 3      | 60   | Poleaxe, halberd  |
+|                             |       |         |               |        |      |                   |
+| Light Ranged (2-10 / 11-20) | 1     | \-3     | 1d6+STR       | 1      | 5    | Sling, javelin    |
+| Short-ranged (2-20 / 21-40) | 2     | \-1     | 2+1d6+STR     | 2      | 15   | Shortbow          |
+| Long-ranged (2-40 / 41-80)  | 2     | 2       | 6+1d4/STR     | 2      | 60   | Longbow           |
 
 $^+$ Only adds STR if positive  
 \*\* Increases your Melee range by 1 meter. Enemies that approach from your front provoke an Opportunity Attack.

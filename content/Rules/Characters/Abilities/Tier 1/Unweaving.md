@@ -5,7 +5,7 @@ tags:
   - effects/defense
   - ability/weaving
 ---
-# Unweaving \[Destroy\] \[Esoteric\] \[Evade\]
+# Unweaving \[Destroy\] \[Esoteric\]
 Tier 1. Prerequisite: [[Weaving]] 1
 Major Action. 2 Weave.
 When you gain this talent, choose either Weave Aura or Weave Warp.

@@ -12,3 +12,6 @@ You take a \-3 penalty to all Defenses and Tests.
 Your Speed is halved and you cannot Shift. Whenever you take a Major or Minor action, lose 1 Health.
 ###### Battered
 You take a -2 penalty to Physical/Magic Defense and all Tests.
+
+###### Surprised
+If you are hidden from all enemies at the start of an encounter your Initiative result is doubled, and they are Surprised until the end of the round. 
