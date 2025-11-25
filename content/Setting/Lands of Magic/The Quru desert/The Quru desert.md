@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 The Quru desert is a barren wasteland, but filled with mysteries both new and old. It has long been abandoned as a place where nothing but bad things live, and those foolish enough to venture out there found little that was worth it. However, things have changed in the last decades, as the rising level of magic in the world has caused something of a gold rush in the desert, as many essence deposits are appearing in the once dead landscape.
 

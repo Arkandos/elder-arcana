@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 Beyond [[Coret]], lies the mystical planes and realms. Their denizens all have vested interests in Coret, and affect the world in various ways. The planar categories are Magic, Divine, Infernal, Faerie, and Boundless.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 The town of Crucible is the largest settlement in the Quru desert, an outpost founded in O.C. 620 by \<X\> to exploit the newfound resources of the desert. Named the Crucible as it has become a melting pot for cultures and different interests.  
 Crucible was founded by the governor as a place to project power from over the area, and to funnel essence from the desert back home to \<X\>. The location was chosen as it is easily defendable, on top of ancient ruins with a source of water essence to sustain the colony. An artificial river flows in a circular pattern around the Kinriton Arcanists tower before being dispersed in the area around the town. The area around Crucible is being terraformed and is currently arable land being farmed for food. Anything that cannot be produced locally is imported through the long trade routes, driving up prices for many goods and sundries.

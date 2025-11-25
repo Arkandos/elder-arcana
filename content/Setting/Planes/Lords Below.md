@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 Each of the 7 infernal realms is controlled by a duke or duchess reigning supreme as the epitome of that sin. Infernals meddle in affairs all over Coret, trying to corrupt the population and fill them with sin. 
 

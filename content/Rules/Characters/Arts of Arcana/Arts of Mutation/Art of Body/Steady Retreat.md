@@ -5,9 +5,11 @@ tags:
   - actions/minor
   - effects/mobility
 ---
-# Steady Retreat \[Power\] \[Control\] \[Body\]
+# Guarded Pace \[Power\] \[Control\] \[Body\] \[Blood\]
 Minor Action. 1 Weave.
-Effect: You move (1 + half Rank)m in a straight line without changing your facing. Enemies at your front cannot take Opportunity Attacks.
+Effect: You move 1m in a straight line without changing your facing. Enemies at your front cannot take Opportunity Attacks.
+
+> Enhance Blood: Increase move distance by half Rank (1)
 
 ---
 *Created 2025-11-24*

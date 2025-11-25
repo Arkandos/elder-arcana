@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 # Belief
 

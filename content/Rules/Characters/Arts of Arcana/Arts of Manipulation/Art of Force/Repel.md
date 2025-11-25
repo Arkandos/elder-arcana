@@ -8,7 +8,7 @@ tags:
 ---
 # Repel \[Power\] \[Spell\] \[Create\] \[Force\]
 Major action. 2 Weave.  
-(4 + WIL)m radius burst from you, all creatures  
+2m burst from you, all creatures  
 Effect: Make an INT+[[Weaving]] Test against the target’s Physical Defense.  
 Success deals 1d6+WIL Magic damage, and pushes them up to Rank meters.  
 >Additional Successes: Increase push distance by 2m; increase damage by 2.

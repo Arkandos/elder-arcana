@@ -1,3 +1,10 @@
+# 0.1.5
+## Powers
++Magic Sensitivity (Esoteric), Circle of Flames (Fire), Resilience of the Earth (Earth), Cabal Link (Esoteric), Clemency of the Cabal (Esoteric), Momentary Lapse (Memory), Lucubrate the Present (Memory)
+* Virulent Flame: Weave Cost 1->3
+* Force Bolt: No longer requires Focusing
+* Redirect Momentum: 2 \* Rank -> Rank meters away
+* Repel: 2+WIL burst -> 2m burst
 
 # 0.1.4
 ## Abilities
@@ -14,7 +21,7 @@
 	* Abilities: Brawl 2 -> Brawl 1
 ## Powers
 +Steady Retreat (Body)
-* Entangle: Escape TN 7+Rank -> 5+Ranknpx
+* Entangle: Escape TN 7+Rank -> 5+Rank
 
 # 0.1.1
 Ability parity, mostly complete

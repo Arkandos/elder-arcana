@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 The many sentient species of Coret are referred to as Kith, and all have the capability to become weavers. What follows is some brief information about the most common types of kith.
 #### Humans

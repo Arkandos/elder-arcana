@@ -1,6 +1,6 @@
 ---
 tags:
-  - Setting
+  - setting
 ---
 The boundless planes are the Astral, the Graveyard, and the Void.
 ## Astral plane
