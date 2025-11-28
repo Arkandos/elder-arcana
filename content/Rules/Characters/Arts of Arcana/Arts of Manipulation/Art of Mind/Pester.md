@@ -7,7 +7,7 @@ tags:
   - powers/attack/ranged
   - keywords/spell
 ---
-# Mind Spike \[Power\] \[Spell\] \[Control\] \[Mind\]  
+# Pester \[Power\] \[Spell\] \[Control\] \[Mind\]  
 Minor Action. 2 Weave  
 10m, 1 enemy  
 Attack: PRE+Rank vs Mental Defense  

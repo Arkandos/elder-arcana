@@ -5,7 +5,7 @@ tags:
 When [[The Weave]] can create potentially any type of matter, how come resources are still valuable on [[Coret]]? The reason is the ephemeral nature of a woven effect. Over time a weave unravels itself until it completely fades. An earthweaver might create a block of pure steel, but it will inevitably disappear once the threads unravel themselves. Only a weave stabilized by utilising [[The Weave#Essences|essence]] is permanent. Such a creation stabilized by essence is no longer a magical creation, but real and indistinguishable from the ritual that created it (once the residues of the ritual have faded). A magical effect made permanent through essence remains magical, but will never unravel on its own. An example would be an illusory wall made with essence will never fade over time, but is still an inherently magical effect.
 
 # Nourishment
-Inevitably one comes to the opic of magically created nourishment. Does created bread fill you? Does a woven glass of water sate your thirst? The question is complicated, but one answer is clear.
+Inevitably one comes to the topic of magically created nourishment. Does created bread fill you? Does a woven glass of water sate your thirst? The question is complicated, but one answer is clear.
 
 Created food and drink cannot sustain you, as its temporary nature cannot be absorbed into your body as permanence. Such nourishment will not stave off hunger or hydrate your body. However created food and drink still tastes well and fills your stomach. But you derive no nourishment nor energy from them. In a way, they are a mirage or illusion. No known temporary weave has ever created functioning nourishment.
 

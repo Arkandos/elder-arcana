@@ -11,7 +11,7 @@ tags:
 Tier 1\.   
 Free action. 1 Health.  
 Trigger: You hit with a Melee Strike and score 1+ additional success.  
-Effect: The additional successes are spent on this Ability instead. Choose one of the effects below corresponding to the number of successes spent:
+Effect: You may spend additional successes on this Ability instead. Choose one of the effects below corresponding to the number of successes spent:
 
 | Successes |                                                           Effect                                                           |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------: |

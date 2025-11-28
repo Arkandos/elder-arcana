@@ -9,9 +9,9 @@ tags:
 Tier 1
 Free action. 1 Health.  
 Trigger: You hit with an attack while fulfilling one of these triggers:
-* You [[Conditions & Modifiers|flank]] the target
+* You [[Rules/Encounters/Conditions & Modifiers/index|flank]] the target
 * The attack was an [[Opportunity Attack]]
-* The target is [[Conditions & Modifiers|Blinded]] or [[Conditions & Modifiers|Prone]].
+* The target is [[Rules/Encounters/Conditions & Modifiers/index|Blinded]] or [[Rules/Encounters/Conditions & Modifiers/index|Prone]].
 Effect: Add this Rank to the damage.
 
 ---

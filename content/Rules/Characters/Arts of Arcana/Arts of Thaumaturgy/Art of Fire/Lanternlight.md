@@ -15,7 +15,7 @@ Effect: As Minor Action, you create a bright light at the target location for (2
 
 ---
 As a Major Action, place a (2 \+ WIL)m burst within Medium range and make an INT+Weaving Test against all targets Magic Defense.  
-Success means they are [[Conditions & Modifiers#Blinded|Blinded]] for 1 round.  
+Success means they are [[Rules/Encounters/Conditions & Modifiers/index#Blinded|Blinded]] for 1 round.  
 They may Rally WIL (5 + Rank) to end the effect.
 >Additional successes: Increase the duration by 2 rounds; increase the Rally TN by 2\. 
  

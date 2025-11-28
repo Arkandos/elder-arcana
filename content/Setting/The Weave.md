@@ -28,7 +28,7 @@ Prepared uses of Arts called Powers are well practiced and almost instinctive ef
 
 ## Essences
 
-In certain places or during auspicious events the weave coalesces into essence. Each [[The Weave#The Arts|Art]] is capable of coalescing into its own time of essence. Thus there is essence of Enchantment, Memory, Fire etc. Essence is a very valuable resource, which allows a weaver to stabilize a weave to make it permanent in special strenuous rituals. This stops the weave from unravelling on its own, sustained by the power of the essence. Once essence has been woven into a weave, it cannot be reclaimed. If the weave is broken, the essence is lost.
+In certain places or during auspicious events the weave coalesces into essence. Each [[The Weave#The Arts|Art]] is capable of coalescing into its own type of essence. Thus there is essence of Mind, Memory, Fire etc. Essence is a very valuable resource, which allows a weaver to stabilize a weave to make it permanent in special strenuous rituals. This stops the weave from unravelling on its own, sustained by the power of the essence. Once essence has been woven into a weave, it cannot be reclaimed. If the weave is broken, the essence is lost.
 
 Essence is by its nature a volatile element. To transport it either requires special receptacles or constant effort by an attuned weaver. The same volatility carries over when it is used to stabilize a weave, only when the ritual is complete is it stabilized. The most powerful of magical calamities have occurred when its users lost control over its essence.
 

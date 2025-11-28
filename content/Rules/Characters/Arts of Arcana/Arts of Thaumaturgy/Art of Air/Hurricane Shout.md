@@ -9,7 +9,7 @@ tags:
 Major Action. 2 Weave.
 Close range, 1 enemy
 Attack: WIL+Rank vs Physical Defense
-Effect: Success means the target becomes [[Conditions & Modifiers#Prone|Prone]].
+Effect: Success means the target becomes [[Rules/Encounters/Conditions & Modifiers/index#Prone|Prone]].
 > Additional Successes: move Rank meters away from the target; push the target WIL meters.
 
 > Enhance Weave: additional target (2)

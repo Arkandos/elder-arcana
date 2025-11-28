@@ -12,7 +12,7 @@ Since the order of who goes when is important in an encounter, everyone involved
 Distances in **Elder Arcana** are measured in meters. Encounters take place on an ungridded map, where distances are measured point-to-point. This means you measure from your token’s edge, and another token is in range if its edge is within the measured distance.  
 There are multiple types of area targeting in encounters. These include bursts (a circle with X radius), cones, lines, and Auras (X meters away from a creature). A creature is affected by an area if the centre of their token is in the area (pending change depending on foundry implementation).
 ## Facing
-Creatures have a directional facing in this game, which must be in an intercardinal direction. Whenever you take an action or end your movement, you may change your facing. In general, you must face in the direction of whatever you are affecting. If you attack a creature from behind, you flank them (see [[Conditions & Modifiers]]))  
+Creatures have a directional facing in this game, which must be in an intercardinal direction. Whenever you take an action or end your movement, you may change your facing. In general, you must face in the direction of whatever you are affecting. If you attack a creature from behind, you flank them (see [[Flanking]]))  
 You may change your facing to react to an action of another character out of turn any number of times. However, all enemies in your rear facing (before you change it) may make an [[Opportunity Attack]] against you.
 ## Rally
 Certain effects allow you to [[Rally]] against them, ending them on a successful test. At the end of your turn when you are affected by a Rally effect you may make an associated Test, ending it on a success.

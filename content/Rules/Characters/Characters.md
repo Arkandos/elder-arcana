@@ -63,5 +63,5 @@ If your total weight exceeds your carrying capacity, you are encumbered.
 |            Total Weight            |    Encumbrance     |                                        Effect                                         |
 | :--------------------------------: | :----------------: | :-----------------------------------------------------------------------------------: |
 |        Up to carry capacity        |    Unencumbered    |                                         None                                          |
-| Between capacity and 150% capacity |     Encumbered     |              Speed halved, [[Conditions & Modifiers#Battered\|Battered]]              |
+| Between capacity and 150% capacity |     Encumbered     |              Speed halved, [[Rules/Encounters/Conditions & Modifiers/index#Battered\|Battered]]              |
 |      More than 150% capacity       | Heavily encumbered | Speed is 2 (or less), all defenses reduced to 2, can only take movement related Tests |
