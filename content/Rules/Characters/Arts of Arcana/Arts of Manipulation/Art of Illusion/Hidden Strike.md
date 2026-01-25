@@ -8,7 +8,7 @@ tags:
 ---
 # Hidden Strike \[Power\] \[Destroy\] \[Illusion\]
 Major Action. 2 Weave.  
-Effect: Make a Melee Strike, with a +Rank bonus if the target cannot detect invisible things. You may spend additional successes from the strike on these effects:  
+Effect: Make a Melee Strike, with a +Rank bonus to attack if the target cannot detect invisible things. You may spend additional successes from the strike on these effects:  
 >Additional Successes: shift 1m; 1d6+2 additional damage.
 
 

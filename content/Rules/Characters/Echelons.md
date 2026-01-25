@@ -15,11 +15,13 @@ Once you fulfil all the requirements to increase your Echelon, choose one of the
 
 Echelon requirements
 
-| Echelon | Ability requirements                                      | Art requirements  |
-| :------ | :-------------------------------------------------------- | :---------------- |
-| 1       | Four abilities at Rank 3, at least one of which is Tier 1 | One Art at Rank 2 |
-| 2       | Five abilities at Rank 4                                  | One Art at Rank 3 |
-| 3       |                                                           |                   |
+|         Echelon         | Ability requirements                                      | Art requirements                         |
+| :---------------------: | :-------------------------------------------------------- | :--------------------------------------- |
+|            1            | Four abilities at Rank 3, at least one of which is Tier 1 | One Art at Rank 2                        |
+|            2            | Five abilities at Rank 4                                  | One Art at Rank 3                        |
+|            3            | Six abilities at Rank 5                                   | One Art at Rank 4                        |
+| 4<br>(Access to tier 2) | Seven abilities at Rank 6                                 | One Art at Rank 4, <br>another at Rank 3 |
+|                         |                                                           |                                          |
 
  
 
@@ -81,7 +83,7 @@ For every Rank you must find a suitable target to outwit.
 | 1    | (4+STA$^+$) Health <br>1 Physical defense <br>2 Weave <br>1 Power <br>1 Initiative <br><br>You can spend 1 Mythos to get a bonus d6 on any roll to disguise, or against traps | You have overcome a foe through underhanded tactics.                                                   |
 | 2    | 3 Health <br>1 Magic defense <br>1 Weave <br>1 Speed <br>1 Initiative                                                                                                         | You have befriended or gained the respect of a kith  well versed in subterfuge.                        |
 | 3    | (4+STA$^+$) Health <br>1 Weave <br>1 Power <br>1 Speed <br><br>\<Path benefit, maybe t2 ability?\>                                                                            | You have avoided great danger and found an alternate path. You have acquired something of great value. |
-| 4    | (4+STA$^+$) Health <br>1 Physical defense  <br>1 Speed                                                                                                                        | You have performed a significant sabotage or set a great trap You hide your true nature and power.     |
+| 4    | (4+STA$^+$) Health <br>1 Physical defense  <br>1 Speed                                                                                                                        | You have performed a significant sabotage or set a great trap. You hide your true nature and power.    |
 
 ## Path of Tales
 

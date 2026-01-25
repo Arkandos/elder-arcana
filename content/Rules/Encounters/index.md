@@ -21,3 +21,11 @@ During an encounter, the way you can act is limited. You can move a number of me
 During your turn, you can take a Major action and a Minor action.  
 In place of a Major action, you may either [[Stride]] again or take a Minor action.  
 Outside of your turn, you can also take one Reaction per round during certain triggers.
+
+## Desperate Actions
+When you are [[Core Rules#Dying and Death|disabled]] either due to having less than 0 Health or being unable to act (such as being stunned) you can still act in a limited fashion. On your turn, you can take one of these Desperate Actions instead of your set of actions. All of them are available while below 0 Health, but may be restricted depending on what otherwise prevents you from acting.
+* Lose 1 Health to give another character 1 temporary Mythos until the end of the next round.
+* Lose 1 Health to give +5 initiative to an ally either this round or the next.
+* Move 1/4 Speed
+* Stabilize without a Stamina roll.
+* Lose 5 Health to drink a potion or use another ability that regains Health

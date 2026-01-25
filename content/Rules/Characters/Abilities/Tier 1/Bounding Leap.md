@@ -2,7 +2,6 @@
 tags:
   - ability/tier1
   - actions/free
-  - effects/social
   - keywords/blood
   - effects/mobility
   - ability/traverse

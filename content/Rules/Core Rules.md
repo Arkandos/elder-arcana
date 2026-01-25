@@ -5,7 +5,6 @@ Inspired by many ttrpgs around, but drawing heavily upon the systems of Earthdaw
 ## Golden Rule
 This rules reference is the definite source of rules. A specific mechanic may override these rules. If an effect forbids you from performing some act, that effect is absolute unless another effect specifically counteracts it. You must perform an act preceded by “must”, and may opt to ignore one preceded by “may”. Effects preceded by “then” or worded as “you may pay X to do Y” are only allowed if the preceding effect was true, or its cost paid (where applicable)
 ## Dice Mechanics
-
 Most dice rolls in the game are Tests. Tests are  
 (1d10 \+ attribute \+ ability rank) is your test result, which is compared to a target number (TN) or opposed test.  
 1’s explode, roll again and double that roll (which cannot botch). If you roll another 1, quadruple the next roll instead. There is no limit on the number of times a roll can explode.  
@@ -13,6 +12,8 @@ Most dice rolls in the game are Tests. Tests are
 
 Equal or higher to the TN means a success, with every 5 above the TN means you have scored an additional success.
 Rolling lower than the TN means you fail the test.
+
+You can spend a point of [[Characters#Attributes|Mythos]] to reroll any Test, except if the Test [[Core Rules#Botches|botched]].
 ## Botches
 
 Rolling a 10 means you potentially botch the test. This means you make a special botch roll, rolling a number of d10 decided by your GM (usually 1 but circumstances may call for more).  
@@ -73,6 +74,6 @@ Whenever you take damage in a single instance equal to a third or more of your m
 | Heavy Wounds | \-5 |
 The Wound penalty is applied to all Tests, Defenses, and to Recovery rolls. Wounds are harder to heal than Health. Each day spent [[Exploration|resting]] reduces the severity of your Wounds by 1 step.
 ### Dying and Death  
-Once your health reaches 0, you become unconscious and start dying. Every round, you must make a Stamina Test of (your absolute health). Success means you do not lose any more Health this round. Scoring an additional success means you Stabilize and are no longer dying.  Failure means you lose 1 Health. When your health reaches a negative value equal to half your maximum Health, you die. 
+Once your health reaches 0, you become [[Rules/Encounters/index#Desperate Actions|disabled]] and start dying. Every round, you must make a Stamina Test of (your absolute health). Success means you stabilize and are no longer losing Health. Failure means you lose 1 Health. When your health reaches a negative value equal to half your maximum Health, you die. 
 ### Defeated  
 In general, NPCs do not become dying as player characters do. Instead, they are Defeated when they reach 0 Health and can no longer act.

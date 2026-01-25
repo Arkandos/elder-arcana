@@ -4,7 +4,6 @@ tags:
   - actions/phase
   - effects/exploration
   - ability/study
-  - todo/rework
 ---
 # Weave Whispers \[Sense\] \[Esoteric\]
 Tier 1. Prerequisite: [[Study]] 1

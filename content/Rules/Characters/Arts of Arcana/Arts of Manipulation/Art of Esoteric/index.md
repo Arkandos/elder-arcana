@@ -6,7 +6,6 @@ cssclasses:
   - document--no-title
 tags:
   - art/esoteric
-  - todo/wip
 ---
 The Esoteric art is about manipulating the flow of the weave itself. It can affect and manipulate other arts. Botches can cause any manner of effects, twisting and affecting your uses of Weave.
 

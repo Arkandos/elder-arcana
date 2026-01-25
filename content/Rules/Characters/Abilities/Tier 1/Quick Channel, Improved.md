@@ -10,7 +10,7 @@ tags:
 Tier 1\.   
 Free action. 1 Health.  
 Trigger: You use [[Quick Channel]].  
-Effect: The minimum amount of Weave you regain is Rank (up to 4). 
+Effect: The minimum amount of Weave you regain is half your Rank, up to 4 (min 1). 
 
 ---
 *Created 2025-11-07*

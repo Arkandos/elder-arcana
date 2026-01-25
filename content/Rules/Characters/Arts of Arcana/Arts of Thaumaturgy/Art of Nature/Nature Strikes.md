@@ -9,7 +9,7 @@ tags:
 ---
 # Nature Strikes \[Power\] \[Enhance\] \[Nature\] 
 Major Action. 1 Weave.  
-Effect: Make a Melee or Ranged Strike.  On a Success, you may push or pull the target (1+STR)m.   
+Effect: Make a Strike.  On a Success, you may push or pull the target (1+STR)m.   
 You may spend additional successes on the Melee strike on these effects:  
 >Additional Successes: Increase the forced movement by 4m; make a Strike against another target within 2m
 
