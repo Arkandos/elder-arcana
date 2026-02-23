@@ -6,7 +6,7 @@ tags:
 # Ritualist \[Enhance\] \[Esoteric\] \[Blood\]
 Tier 2.
 4 Health.  
-You may use Rituals that have art requirements of a Rank higher than you possess (but you most still possess the Art). When performing a Ritual use this Rank instead of the Art Rank (if it is lower). This increases the casting time by 1 Phase per Rank of this ability.
+You may use Rituals that have art requirements of a Rank higher than you possess (but you most still possess the Art). When performing a Ritual use this Rank instead of the Art Rank (if it is lower). This increases the casting time by 1 Phase per required Rank of the Ritual.
 
 You may choose to boost your Ritual casting by using additional ceremonial actions, which increases the time taken by 1 Phase per action taken and gives a bonus to the Ritual Test. You may use a number of ceremonial actions up to your Rank in any given Ritual.
 

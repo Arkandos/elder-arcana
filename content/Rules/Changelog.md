@@ -1,4 +1,11 @@
 
+# 0.2.1
+### Abilities
+* Bind Wound: Wording change
+## Powers
+\+ Forked Lightning (Air), Scorching Metal (Alteration/Fire), The Supple Surface (Alteration), The Yielding Ground (Alteration),  Lubricious Cleave (Alteration), Restoration of Form (Alteration), Unravelling Touch (Alteration), Slow Weapon (Alteration), Ripple Reform (Alteration), Saviours Bond (Body), Calefaction Strike (Alteration), Gift of the Athletes Vigour (Body)
+### Rituals
+\+ Charm of the Foolish Warrior, Visage of the False Kith
 # 0.2
 ## Abilities
 \+ Animal Companion (T1), Memory Gap (T2), Ritualist (T2), Mounted Combat (T1), Mounted Skirmish (T1), Mounted Rundown (T1), Augment Armor (T2), Augment Weapon (T2), Attune Item (T1)

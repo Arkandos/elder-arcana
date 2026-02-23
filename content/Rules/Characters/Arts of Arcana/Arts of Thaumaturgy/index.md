@@ -1,5 +1,5 @@
 ---
-title:
+title: Thaumaturgy
 aliases:
 cssclasses:
   - document--no-title

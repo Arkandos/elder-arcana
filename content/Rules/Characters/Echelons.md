@@ -11,7 +11,7 @@ Echelons are like levels of power, each representing a milestone of progress. We
 
 Every 3 Echelons count as a Tier. This means that once you reach Echelon 4, you can access abilities, arts, and Powers of Tier 2\. Once you reach E7, you can access Tier 3, etc.
 
-Once you fulfil all the requirements to increase your Echelon, choose one of the paths below. You need not choose a single path, but can progress in any order of your choosing. However, each Echelon path is tracked separately.
+Once you fulfil all the requirements to increase your Echelon, choose one of the paths below. You need not choose a single path, but can progress in any order of your choosing. However, each Echelon path is tracked separately. Advancing to the next Echelon is a [[Downtime]] project.
 
 Echelon requirements
 

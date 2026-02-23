@@ -11,7 +11,7 @@ The weave cannot alter the stellar cycles. A weaver could darken the skies and b
 ## Sustaining
 Temporarily created food or drink [[Ephemeral & Permanent#Nourishment|cannot sustain a living creature]].
 ## Ephemeral
-Any weave not stabilized with [[The Weave#Essences|essence]] is temporary and will unravel itself over time.
+Any weave not stabilized with [[The Weave#Essences|essence]] are temporary and will unravel themselves over time.
 ## Soul
 The weave cannot create nor destroy [[souls]], as they seemingly exist beyond the flow of the Weave. At most, a weave can trap a soul and force it to serve a purpose but this is considered an exceptionally cruel and evil act.
 ## Essential essence

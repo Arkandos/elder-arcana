@@ -20,9 +20,9 @@ Success deals 4+1d6+1d4/WIL Physical damage, +1d6 per additional success.
 
 > Increase range by 10m (1); increase damage by 2 (1); increase duration by 2 rounds (1)
 
-Focus (Major): Make an INT+Weaving Test against the ghosts Magic Defense. Success means it cannot move this round, while an additional success means it is banished.
+[[Focus]] (Major): Make an INT+Weaving Test against the ghosts Magic Defense. Success means it cannot move this round, while an additional success means it is banished.
 
-Flow: You can pay the Weave cost over multiple turns by using Free actions on your turn. It doesn't take effect until all the Weave has been paid.
+[[Flow]]: You can pay the Weave cost over multiple turns by using Free actions on your turn. It doesn't take effect until all the Weave has been paid.
 
 ---
 *Created 2025-11-15*
