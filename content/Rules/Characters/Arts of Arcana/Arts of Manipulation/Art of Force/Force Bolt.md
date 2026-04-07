@@ -12,6 +12,5 @@ Effect: Make a Ranged Strike. It deals no damage but instead immobilizes the tar
 You may spend additional successes on strike on these effects:
 >Additional Successes: 1d6 Magic damage; push the target Rank meters.
 
-
 ---
 *Created 2025-11-15*

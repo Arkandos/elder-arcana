@@ -36,7 +36,6 @@ Tier 1. Cost 600. Weight 1.
 Effect: When applied to a creature that died no more than a day ago, there is a chance they may be brought back to life. The creature may spend all their remaining Recoveries. If that brings their Health above their death threshold, they return to life.
 A creature with no Recoveries left may still regain Health as if they spent a single Recovery. Only one set of Phoenix Drops can be applied per hour.
 
-
 # Instilled charms
 Instilled charms merge with your body in one way or another, and imparts both a penalty and a benefit. Instilling one takes an hour.
 ## Barrier Bone \[Create\] \[Body\] \[Consumable\] \[Instilled\]

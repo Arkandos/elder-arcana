@@ -1,7 +1,46 @@
+# 0.2.2
+
+## Abilities
+\+ Battle Positioning, Channelling Overload
+## Arts
+Rebalanced and expanded all art ranks
+## Powers
+\+ Savage Ram (Body/Force)
+* Whip of Meredor: No baseline push. Can spend Weave when attacking to increase damage.
+	* Enhance Weave: a target that takes damage is pushed X meters (X); no longer has a damage option
+* Pounce: Move -> Shift
+* Repel: 
+	* Additional Success: push 2m -> 4m
+* Pummel: 
+	* Additional Success: push 4m -> 1m
+* Dull Pain: No longer adds Stamina.
+## Rituals
+\+ Shape Rigidity
+## Rules
+Added Talents.
 
 # 0.2.1
 ### Abilities
 * Bind Wound: Wording change
+### Echelon
+Harmony
+* R1: +1 Weave, +2 powers (each from different arts)
+* R2: -1 Initiative, +1 Mythos
+* R3: +1 power, +1 Initiative
+Knowledge
+* R1: +1 Magic Armor
+* R2: 3 Powers (each from different arts)
+Potency
+* R2: +1 Health, +1 Initiative
+* R3: +1 Magic Armor
+Subterfuge
+* R1: -1 Weave
+Tales
+* R1: -1 Power
+* R2: +1 Mythos
+Travel
+* R2: 3 Health -> 4+STA
+
 ## Powers
 \+ Forked Lightning (Air), Scorching Metal (Alteration/Fire), The Supple Surface (Alteration), The Yielding Ground (Alteration),  Lubricious Cleave (Alteration), Restoration of Form (Alteration), Unravelling Touch (Alteration), Slow Weapon (Alteration), Ripple Reform (Alteration), Saviours Bond (Body), Calefaction Strike (Alteration), Gift of the Athletes Vigour (Body)
 ### Rituals

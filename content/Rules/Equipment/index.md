@@ -7,6 +7,8 @@ cssclasses:
 ---
 Mundane equipment is not strictly defined, but are instead part of different categories. When picking a piece of equipment, choose what form it takes. Costs are listed in silver pennies.
 # Armors
+# Common armors
+*Always available*
 
 |     Armor     | Cost | Physical Armor | Magic Armor | Initiative penalty | Weight |   Examples    |
 | :-----------: | :--: | :------------: | :---------: | :----------------: | :----: | :-----------: |
@@ -17,7 +19,20 @@ Mundane equipment is not strictly defined, but are instead part of different cat
 |     Heavy     | 1000 |       6        |      2      |         3          |   5    |   Chainmail   |
 | Heavy (Full)  | 1200 |       7        |      3      |         4          |   7    |    Helmet     |
 
+## Uncommon armors
+
+|        Armor         | Cost | Physical Armor | Magic Armor | Initiative penalty | Weight |      Traits       |
+| :------------------: | :--: | :------------: | :---------: | :----------------: | :----: | :---------------: |
+|    Elfweave Cloak    | 200  |       3        |      3      |         0          |   2    |      Living       |
+|     Shimmerbound     | 800  |       5        |      3      |         1          |   1    | Living, Instilled |
+|       Vineveil       | 120  |       2        |      3      |         0          |   3    |      Living       |
+| Orichalcum Chainmail | 2000 |       7        |      6      |         4          |   8    |                   |
+| Orichalcum<br>Plate  | 3000 |       8        |      9      |         5          |   10   |                   |
+|                      |      |                |             |                    |        |                   |
+
+
 # Shields
+## Common shields
 
 | Shield | Cost | Physical Defense | Magic Defense | Initiative penalty | Weight | Examples |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -26,6 +41,18 @@ Mundane equipment is not strictly defined, but are instead part of different cat
 | Heavy | 50 | 3 | 1 | 2 | 3 | Infantry |
 
 \* While wearing a Light shield you can still hold another item in the same hand, but cannot use it to attack.
+
+## Uncommon shields
+
+
+|      Shield       | Cost | Physical Defense | Magic Defense | Initiative penalty | Weight | Traits |
+| :---------------: | :--: | :--------------: | :-----------: | :----------------: | :----: | :----: |
+| Palladium, Light  |  50  |        1         |       1       |         0          |   2    |        |
+| Palladium, Medium | 200  |        2         |       2       |         2          |   3    |        |
+| Palladium, Heavy  | 500  |        3         |       3       |         3          |   4    |        |
+| Sunpapyrus, Light |  75  |        1         |       2       |         2          |   2    | Living |
+
+
 
 # Weapons
 

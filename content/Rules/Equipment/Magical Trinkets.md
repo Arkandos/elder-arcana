@@ -35,3 +35,17 @@ These comfortable scale boots are imbued with Body-enhancing magics. The wearer 
 ## Elemental Tent \[Create\] \[Air\] \[Earth\] \[Fire\] \[Water\]
 Tier 1. Cost 1200 silver. Weight 30.
 A heavy and cumbersome tent with four elemental enchantments that makes it especially useful for travellers in hostile environments. Large enough for 6 individuals, it keeps a comfortable internal temperature in all but the most extreme conditions. The air inside rotates and keeps fresh, while the surface of the tent is stabilised. Resting for a full rest inside of the tent reduces [[Fatigue]] by 1 step.
+
+## Twin-aligned Crystals \[Sense\] \[Earth\]
+Tier 1. Cost 500. Weight 1.
+Always sold in colourful linked pairs that rotate towards the other when freely placed on a flat surface. As long as both crystals are in the same dimension they will always point towards the other. Otherwise they aimlessly spin around.
+
+# Instilled charms
+Instilled charms merge with your body in one way or another, and imparts both a penalty and a benefit. Instilling one takes an hour.
+## Bloodstone Star \[Enhance\] \[Body\] \[Instilled\]
+Tier 1. Cost 250. Weight 0.
+While instilled, your maximum Health is reduced by 2 and you may use the below free action. Only one Bloodstone Star can be activated at once.
+
+Free action, 1 Health.
+Trigger: You hit with a Strike
+Effect: Increase the Strike's damage by 4. You cannot use this charm again until you have healed all damage.

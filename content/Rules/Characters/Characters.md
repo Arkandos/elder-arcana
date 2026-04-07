@@ -1,3 +1,9 @@
+---
+aliases:
+  - Attributes
+  - Statistics
+  - Encumbrance
+---
 ## Attributes
 Every character has X number of attributes with scores from \-3 to \+3, starting out at 0\.
 1. Strength (STR)
@@ -7,9 +13,9 @@ Every character has X number of attributes with scores from \-3 to \+3, starting
 3. Stamina (STA)  
 	1. Endurance, constitution. Stamina increases your Health, reduces the damage you take, and determines your daily Recoveries.  
 4. Intelligence (INT)  
-	1. Analysis, observation. Intelligence improves the potential of your magic, the range of certain abilities, increases your Weave, and adds to your Magic Defense. 
+	1. Analysis, observation. Intelligence improves the potential of your Spells, the area of certain abilities, increases your Weave, and adds to your Magic Defense.
 5.  Willpower (WIL)  
-	1. Determination, control. Willpower improves the potency of your magic, increases your Mythos, Rallies you against mystical ailments and adds to your Magic Defense.  
+	1. Determination, control. Willpower improves the potency of your magic, increases your Mythos, Rallies you against mystical ailments and adds to your Magic Defense.
 6. Presence	(PRE)
 	1. Charisma, communication. Presence influences others, and adds to your Mental Defense.
 
@@ -27,27 +33,25 @@ When assigning your starting Attributes, you have 10 points to spend. Costs incr
 ## Statistics
 Statistics are derived from your attributes and cannot be directly improved.  $^+$ means the attribute is only added if its positive
 
-| Statistic                    | Value                                                                 | Description                                                                                                                |
-| ---------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Health                       | 20 + <br>2 * STA                                                      | How much damage you can suffer before going unconscious or dying.                                                          |
-| Speed                        | 10 + DEX                                                              | How many meters you can move each [[Rules/Encounters/index\|round]].                                                       |
-| Initiative                   | 3 + DEX                                                               | How fast your reactions are in stressful [[Rules/Encounters/index\|Encounters]]                                            |
-| Physical Defense             | 6 +<br>STR+DEX                                                        | How difficult you are to hit in physical combat                                                                            |
-| Magic Defense                | 6 +<br>INT+WIL                                                        | How difficult you are to hit in magical combat                                                                             |
-| Mental Defense               | 6 + PRE                                                               | How difficult you are to manipulate emotionally                                                                            |
+| Statistic                    | Value                                                      | Description                                                                                                                |
+| ---------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Health                       | 20 + <br>2 * STA                                           | How much damage you can suffer before going unconscious or dying.                                                          |
+| Speed                        | 10 + DEX                                                   | How many meters you can move each [[Rules/Encounters/index\|round]].                                                       |
+| Initiative                   | 3 + DEX                                                    | How fast your reactions are in stressful [[Rules/Encounters/index\|Encounters]]                                            |
+| Physical Defense             | 6 +<br>STR+DEX                                             | How difficult you are to hit in physical combat                                                                            |
+| Magic Defense                | 6 +<br>INT+WIL                                             | How difficult you are to hit in magical combat                                                                             |
+| Mental Defense               | 6 + PRE                                                    | How difficult you are to manipulate emotionally                                                                            |
 | Physical & <br>Magical Armor | (STA$^+$ / 2) +<br>[[Rules/Equipment/index#Armors\|Armor]] | Reduce the damage you take by this amount.                                                                                 |
-| Weave pool                   | 3 + INT$^+$<br>                                                       | Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health. |
-| Mythos pool                  | 3 + WIL$^+$                                                           | Used to reroll Tests. Refreshes every day.                                                                                 |
-| Recoveries                   | 1 + STA$^+$                                                           | Determines how many times per day you can heal damage.                                                                     |
-| Recovery<br>value            | 1 + <br>2 * STA$^+$                                                   | Determines how much each Recovery spent heals you.                                                                         |
-|                              |                                                                       |                                                                                                                            |
-|                              |                                                                       |                                                                                                                            |
-
+| Weave pool                   | 3 + INT$^+$<br>                                            | Used to pay for magical abilities. Refreshes every day. You can [[Channel]] to regain Weave faster, but this costs Health. |
+| Mythos pool                  | 3 + WIL$^+$                                                | Used to reroll Tests. Refreshes every day. You can only spend 1 Mythos to reroll once per Test.                            |
+| Recoveries                   | 1 + STA$^+$                                                | Determines how many times per day you can heal damage.                                                                     |
+| Recovery<br>value            | 1 + <br>2 * STA$^+$                                        | Determines how much each Recovery spent heals you.                                                                         |
+# Tiers
+Content like Abilities, Powers, etc have a Tier attached to them. You can always acquire content of Tier 0 and 1. Once you have advanced in [[Echelons|Echelon]], you can acquire higher Tiers.
 ## Abilities
 There are many Abilities in Elder Arcana. Most tests involve adding one [[#Attributes|Attribute]] score, and one Ability Rank. However this relation between them is not set in stone unless called for by an ability. Certain situations may call upon you to use a different Attribute with the Ability.  
 Abilities are divided into [[Rules/Characters/Abilities/Tier 0/index|Base Abilities]] (Tier 0), and Adept Abilities (Tier 1 and above). Anyone can use a Base Ability (even at Rank 0\) unless it has an \* next to its name, meaning that it can only be used if you have at least one Rank in that ability.  
 Adept Abilities can only be used if you have at least one Rank in them.
-
 # Encumbrance
 If your total weight exceeds your carrying capacity, you are encumbered. 
 
@@ -63,5 +67,5 @@ If your total weight exceeds your carrying capacity, you are encumbered.
 |            Total Weight            |    Encumbrance     |                                        Effect                                         |
 | :--------------------------------: | :----------------: | :-----------------------------------------------------------------------------------: |
 |        Up to carry capacity        |    Unencumbered    |                                         None                                          |
-| Between capacity and 150% capacity |     Encumbered     |              Speed halved, [[Rules/Encounters/Conditions & Modifiers/index#Battered\|Battered]]              |
+| Between capacity and 150% capacity |     Encumbered     |                              Speed halved, [[Battered]]                               |
 |      More than 150% capacity       | Heavily encumbered | Speed is 2 (or less), all defenses reduced to 2, can only take movement related Tests |

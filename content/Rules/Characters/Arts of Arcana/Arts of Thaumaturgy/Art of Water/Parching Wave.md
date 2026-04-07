@@ -6,7 +6,7 @@ tags:
   - effects/offense
   - keywords/spell
 ---
-# Parching Wave \[Power\] \[Spell\] \[Create\] \[Water\]
+# Parching Wave \[Power\] \[Spell\] \[Destroy\] \[Water\]
 Major Action. 3 Weave.  
 (5 \+ INT)m long 45° Cone  
 Effect: Make an INT+[[Weaving]] Test against the Magic Defense of all targets.  
