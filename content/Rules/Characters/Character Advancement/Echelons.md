@@ -56,7 +56,7 @@ For every Rank you must find a suitable source of information.
 | :--- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | 1    | 2 Health <br>1 Magic defense <br>2 Weave <br>1 Power <br><br>You can spend 1 Mythos to get a bonus d6 on any roll to research or remember. | You have discovered a secret.                                                                              |
 | 2    | 2 Health <br>1 Mental defense <br>1 Weave <br>3 Powers (each from different arts)                                                          | You have befriended or gained the respect of a knowledgeable kith                                          |
-| 3    | 2 Health <br>2 Weave <br>1 Power <br><br>Gain access to one of [[Airy Speech]], [[Rules/Characters/Abilities/Tier 2/Enchant Object]], or [[Ritualist]]                       | You have uncovered lost or new knowledge. You have fully researched an enchanted item.                     |
+| 3    | 2 Health <br>2 Weave <br>1 Power <br><br>Gain access to one of [[Anima Speech]], [[Rules/Characters/Abilities/Tier 2/Enchant Object]], or [[Ritualist]]                       | You have uncovered lost or new knowledge. You have fully researched an enchanted item.                     |
 | 4    | 2 Health <br>1 Magic defense  <br>2 Magic armor <br>1 Initiative                                                                           | You have created something permanent using Essence. You proudly display an icon showcasing your knowledge. |
 
 ## Path of Potency
@@ -79,7 +79,7 @@ For every Rank you must find a suitable source of nature.
 | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | 1    | 3 Health <br>1 Mental defense <br>2 Weave <br>3 Powers (each from different arts)<br><br>You can spend 1 Mythos to get a bonus d6 on any roll to understand nature, or performing artistry | You have aided in the growth of the natural world.                                      |
 | 2    | 3 Health <br>1 Magic defense <br>2 Weave <br>1 Power <br>1 Mythos                                                                                                                          | You have befriended or gained the respect of a kith in harmony with nature.             |
-| 3    | 3 Health <br>1 Physical defense <br>1 Weave <br>2 Powers (each from different arts)<br>1 Initiative<br><br>Gain access to one of [[Airy Speech]], [[Nature Speech]], or \<ability t2\>     | You have brought life to desolation. You have destroyed an influence corrupting nature. |
+| 3    | 3 Health <br>1 Physical defense <br>1 Weave <br>2 Powers (each from different arts)<br>1 Initiative<br><br>Gain access to one of [[Anima Speech]], [[Nature Speech]], or \<ability t2\>     | You have brought life to desolation. You have destroyed an influence corrupting nature. |
 | 4    | 2 Health <br>1 Mental defense  <br>1 Physical & Magic armor                                                                                                                                | You have used essence to enhance nature. You incorporate nature in your being.          |
 
 ## Path of Subterfuge

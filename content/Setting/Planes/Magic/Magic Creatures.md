@@ -12,7 +12,7 @@ Having simple minds, elementals seek to fulfil basic "needs". Air elementals hav
 
 Their simple minds and composition do make them easy to ward against and control by those who know the proper techniques. Their aptitude for hiding and blending into natural environments can make them effective guardians or scouts, as long as the controller has a way to communicate.
 
-# Airy Spirits
-Airy spirits or sometimes called unseen spirits are invisible magical spirits that exist in all parts of the world. They are most prevalent in magical auras, where the air swarms with them (to those that can see such spirits). Contrary to most other types of spirits, they have little to no interest in the material world. Thus they are the unseen spirits, whose presence is not noticed by the vast majority of individuals. They may exist inside all things, both living and natural (but generally not tied to creatures). In a magic forest, every tree could have its own spirit.
+# Anima
+Anima spirits, sometimes called unseen or airy spirits are invisible magical spirits that exist in all parts of the world. They are most prevalent in magical auras, where the air swarms with them (to those that can see such spirits). Contrary to most other types of spirits, they have little to no interest in the material world. Thus they are the unseen spirits, whose presence is not noticed by the vast majority of individuals. They may exist inside all things, both living and natural (but generally not tied to creatures). In a magic forest, every tree could have its own spirit.
 
-The most common airy spirits are those connected to natural things, like rocks, plants, or water. But in magical auras spirits may coalesce from more abstract concepts like emotions, or a location.
+The most common anima spirits are those connected to natural things, like rocks, plants, or water. But in magical auras anima may coalesce from more abstract concepts like emotions, or a location.

@@ -1,7 +1,7 @@
 ---
 tags:
 ---
-Spirits is what all those beings without a physical form are called.  In their incorporeal state, they cannot be affected by most material beings (or their magic), but also struggle to affect the material world. They cannot affect anything material, except through their powers. When magic is used to perceive an incorporeal spirit, it is not the true shape that is seen but a representation created by that magic or the imagination of the viewer.
+Spirits is what all those beings without a physical form are called.  In their incorporeal state, they cannot be affected by most material beings (or their magic), but also struggle to affect the material world. They cannot affect anything material, except through their powers. When magic is used to perceive an incorporeal spirit, it is not the true shape that is seen but a representation created by that magic or the imagination of the viewer. Spirits can affect and perceive other spirits just as material creatures can affect each other.
 # Common traits
 While incorporeal, spirits can pass through matter with ease. But their senses are still constrained by the material world. Most spirits can manifest a physical body which allows them to interact as normal. What happens when the body is destroyed depends on the type of spirit.
 
@@ -35,8 +35,9 @@ Infernal ghosts retain all their memories from life, which makes them intelligen
 
 Infernal ghosts are unable to manifest a physical form (like infernal spirits can), but instead their powers can fully affect the material world.
 # Magic Spirits
-Magic spirits are by far the most plentiful, and have the greatest variation in might. In any magic aura they abound, with [[Magic Creatures#Airy Spirits|airy spirits]] filling the air. The more powerful auras may contain spirits of places, who act as their shepards and guardians. Locational spirits are part of their location, and the location part of them.
+Magic spirits are by far the most plentiful, and have the greatest variation in might. Every magic aura is full with [[Magic Creatures#Anima|Anima]] spirits, living inside most objects and even the air itself.
 
+ The more powerful auras may contain Locus spirits, who act as the guardians of that area. Locus spirits are part of their location, and the location part of them. They are the location as a whole, and no individual part. The Locus spirit of a lake embodies the entire lake, but no individual plant or fish within that lake.
 ## Named Spirits
 The Named Spirits (also called Daimons) are the most powerful of all spirits. They derive their power from their True Name, and exist inside the Magic Realm. In fact, they cannot ever leave the Magic Realm for outside it they would disintegrate due to the lower magic aura. Instead, they interact with the world by dispatching parts of themselves called an Aspect.
 
@@ -51,7 +52,6 @@ Aspects can be summoned just like any other spirit, but the Named Spirit typical
 Primordial spirits are Named Spirits that claim to have shaped the world, and created all things. While they claim to have once roamed the material world, they are now locked in the Magic realm like other Named Spirits. Scholars disagree on the reason for this exile, whether it was voluntary or done by agents of one of the other realms. Fact remains that the primordial spirits are among the oldest beings in existence, and their power is immense (even for Named Spirits). Those critical of the gods say that the primordial spirits far outrank them, while the faithful disagree.
 
 The primordial spirits cannot create Aspects on their own, and must be directly contacted. But due to their power this is difficult. The stories they tell of what happened long ago diverge, but one thing is clear: they all wish to be unleashed upon the material world once more.
-
 ## Ghosts
 Sometimes when kith die, their ties to the mortal world are so strong that they cannot pass on to the [[Boundless planes#The Graveyard|Graveyard]]. Instead their spirit remains as a magic ghost until their ties are resolved and they can pass on, never to return. Depending on how lucid a ghost is, they are divided by scholars into three categories: apparitions, shades, and spectres.
 ### Apparitions
@@ -62,3 +62,10 @@ Often apparitions are the most dangerous ghosts to deal with, for their obsessio
 Shades are fading reflections of their past selves, having lost much in the veil of death. They are no longer the same individual they were in life but instead a caricature of their passions and their death. They are dominated with intense emotions that clouds their thinking. The only intact memories are of their worldly ties, everything else has fragmented. They are often delusional and mistake the living for people associated with their worldly tie. In the same way they struggle to form new memories.
 ## Spectres
 Spectres are the most faint version of ghosts, retaining nothing of their personality or personal memories. They exist as the role they had in life and remember nothing else, not even their own death. Due to their abstract worldly ties, it is difficult to lay them to rest. 
+
+# Kith and spirits
+All around Coret, spirits are a common occurrence. All Kith have at some point encountered spirits, either seen or unseen. Divine spirits are both feared and revered as the messengers of the gods. Infernal spirits are often cursed and blamed, even if they were not present for the incident. It is unlikely that Kith would encounter Faerie or Magic spirits unless they actively seek them out.
+
+Weavers invoke spirits of all kinds, using them to bolster their own powers. Names of power are invoked, spirits bound and utilised. Binding Divine spirits is considered taboo, and can cause significant repercussions from the faithful. Theurgists (the name for those who utilise spirits of all kinds) and necromancers (for those who utilise ghosts) wield the spiritual denizens for their own purposes. It would not be unusual to happen upon a device with a bound spirit to power it, or a circle of warding to contain a spirit. 
+
+All Kith are aware of spirits, but not all understand them. A spirit manifesting in the street would be cause for awe and amazement. A rare occurrence, but not something extraordinary.
