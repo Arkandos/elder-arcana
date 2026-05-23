@@ -2,6 +2,9 @@
 title: Equipment
 aliases:
   - Equipment
+  - Armors
+  - Weapons
+  - Adventuring Gear
 cssclasses:
   - document--no-title
 ---

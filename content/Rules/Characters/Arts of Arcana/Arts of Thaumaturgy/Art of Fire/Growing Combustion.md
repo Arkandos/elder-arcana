@@ -4,7 +4,7 @@ tags:
 ---
 # Growing Combustion \[Power\] \[Spell\] \[Create\] \[Fire\]
 Major Action. 2 Weave.  
-30/60m, 1 enemy  
+Close, 1 enemy  
 Attack: INT+[[Weaving]] vs Magic Defense  
 Effect: The target starts burning, taking 1d6+WIL Magic damage. They continue burning as long as you keep Focusing on the effect.  
 They may as a Minor action Rally WIL (5 \+ Rank) to end the effect early.  

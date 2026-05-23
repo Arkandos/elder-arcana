@@ -9,9 +9,9 @@ tags:
 Major Action. 3 Weave.
 Melee, 1 piece of armor
 Effect: Make a WIL+Rank Test (6). Success increases the targets Physical Armor by 2 for (5+Rank) rounds.
-> Additional Successes: Increase Armor bonus by 1; increase duration by 10 rounds.
+> Additional Successes: increase duration by 5 rounds.
 
-> Enhance Weave: Increase the duration by 1 Phase (1); additional target (2); increase Armor bonus by 1 (2)
+> Enhance Weave: increase the duration by 5 rounds (2); additional target (2); increase Armor bonus by 1, up to two times (2)
 
 ---
 *Created 2025-11-25*

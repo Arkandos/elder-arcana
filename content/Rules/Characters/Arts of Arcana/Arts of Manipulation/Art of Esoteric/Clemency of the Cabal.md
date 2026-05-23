@@ -1,6 +1,6 @@
 ---
 tags:
-  - powers/tier1
+  - powers/tier2
   - art/esoteric
   - actions/reaction
   - effects/support

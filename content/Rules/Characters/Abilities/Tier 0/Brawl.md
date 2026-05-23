@@ -1,2 +1,2 @@
-\[Martial\ ]
-Hand to hand combat, dodging enemy attacks
+\[Martial\]
+Hand to hand combat, [[Dodge|dodging enemy attacks]]

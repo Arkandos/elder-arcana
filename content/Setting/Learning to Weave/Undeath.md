@@ -1,5 +1,0 @@
----
-tags:
-  - setting
-  - todo/wip
----

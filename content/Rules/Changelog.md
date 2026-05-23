@@ -1,3 +1,20 @@
+# 0.2.3
+## Abilities
+\+ Force Net, Strike Through, Rally Resurgence, Leadership, Poisoned Words, Tall Tales
+* Second Sight: Now requires a Magic Defense Test against incorporeal spirits.
+* Shadow Stalker: Halved Speed while benefitting
+* Study Flaws: Now decreases target armor instead of defense, duration increased to Rank rounds
+## Powers
+\+ Poison Spray (Nature)
+Moving towards more standardised ranges
+* Growing Combustion: Range 30/60m -> Close
+* Ward against Projectiles: Changed effect to a chargeup
+* Resilience of the Earth: Can no longer increase duration to Phases, instead in increments of 5 rounds
+## Talents
+\+ Enchant Attuned Object, Ward against Projectiles - Roaming Ward
+## Rules
+Added rules for equipment being directly damaged
+
 # 0.2.2
 
 ## Abilities
