@@ -8,7 +8,7 @@ tags:
 # Desperate Aegis \[Power\] \[Warding\] \[Force\]
 Reaction. X Weave (up to Rank).
 Trigger: You take damage, and do not have [[Weave Burn]]
-Effect: For every Weave spent, reduce the damage by twice that amount. Then gain X [[Weave Burn]]. You may choose to set X higher than the amount of Weave you have, in which case you only need to pay as much Weave as you can.
+Effect: For every Weave spent, reduce the damage by twice that amount. You may choose to set X higher than the amount of Weave you have, in which case you only need to pay as much Weave as you can, and gain [[Weave Burn]] equal to the Weave cost you could not pay.
 
 ---
 *Created 2026-01-05*

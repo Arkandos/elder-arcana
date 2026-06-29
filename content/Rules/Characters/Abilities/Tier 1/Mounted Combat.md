@@ -11,7 +11,7 @@ Tier 1. Prerequisite: [[Ride]] 1
 Free action (up to Rank times / round). 1 Health.
 Trigger: While mounted, an attack hits you or your mount.
 Effect: Make a DEX+Rank Test against the triggering attack result. Success means the attack misses instead.
-Evade: You can only use one Evade ability against a particular effect.
+Evade: You can only use one Evade ability against a particular effect. Evade Tests only suffer Wound penalties (not other Test penalties)
 
 ---
 Free action. 1 Health.

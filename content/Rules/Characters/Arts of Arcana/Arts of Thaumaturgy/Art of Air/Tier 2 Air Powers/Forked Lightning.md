@@ -5,12 +5,14 @@ tags:
   - actions/major
   - effects/offense
   - keywords/spell
+  - keywords/flow
 ---
 # Forked Lightning \[Power\] \[Spell\] \[Create\] \[Air\] \[Flow\]
 Major Action. 6 Weave.
 Effect: Until the start of your next turn, you become [[Immobilized]] and gain an Aura 2m. Creatures that enter the Aura or start their turn in it take 6+WIL Magic Damage.
 During your next turn, you may spend a Major Action to cause the effect below.
-Make an INT+[[Weaving]] (12) Test. Each additional success allows you to target an additional enemy.
+
+[[Focus]] (Major): You cannot Focus on this again. Make an INT+[[Weaving]] (12) Test. Each additional success allows you to target an additional enemy for the effect below:
 
 Close range, 1 enemy.
 Attack: INT+[[Weaving]] vs Magic Defense of all targets

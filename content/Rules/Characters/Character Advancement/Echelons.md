@@ -33,6 +33,11 @@ At first, you can only access content (like Abilities & Powers) of Tier 1. As yo
 | 0-3           | 0-1         |
 | 4+            | 2           |
 | 7+            | 3           |
+## Ritual of Advancement
+Once per tier, you can undergo a special ritual to increase your [[Characters#Attributes|attributes]]. This is a length process that takes an entire [[Downtime]] to perform, costs Essence, and requires someone to know the ritual.
+Once completed, you increase two different of your attributes.
+* If the attribute is 0 or lower, increase it by 2 points.
+* Otherwise, increase it by 1 point.
 
 # Echelon paths
 
@@ -56,7 +61,7 @@ For every Rank you must find a suitable source of information.
 | :--- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | 1    | 2 Health <br>1 Magic defense <br>2 Weave <br>1 Power <br><br>You can spend 1 Mythos to get a bonus d6 on any roll to research or remember. | You have discovered a secret.                                                                              |
 | 2    | 2 Health <br>1 Mental defense <br>1 Weave <br>3 Powers (each from different arts)                                                          | You have befriended or gained the respect of a knowledgeable kith                                          |
-| 3    | 2 Health <br>2 Weave <br>1 Power <br><br>Gain access to one of [[Anima Speech]], [[Rules/Characters/Abilities/Tier 2/Enchant Object]], or [[Ritualist]]                       | You have uncovered lost or new knowledge. You have fully researched an enchanted item.                     |
+| 3    | 2 Health <br>2 Weave <br>1 Power <br><br>Gain access to one of [[Anima Speech]], [[Enchant Object]], or [[Ritualist]]                      | You have uncovered lost or new knowledge. You have fully researched an enchanted item.                     |
 | 4    | 2 Health <br>1 Magic defense  <br>2 Magic armor <br>1 Initiative                                                                           | You have created something permanent using Essence. You proudly display an icon showcasing your knowledge. |
 
 ## Path of Potency

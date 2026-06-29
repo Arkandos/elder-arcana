@@ -58,9 +58,9 @@ Sometimes when kith die, their ties to the mortal world are so strong that they 
 Apparitions are those ghosts who most remember their past life, with full awareness of their surroundings. They wish nothing more than to resolve their ties to the world, so that they can pass onto the afterlife. Often they seek the help of the living to complete this task, and can explain what needs to be done. 
 
 Often apparitions are the most dangerous ghosts to deal with, for their obsession with their worldly tie consumes all else. They may not simply ask for help for fear of being denied, but resort to tricks or force. Even the most well-meaning apparition may fly into a murderous rage if denied or its goals opposed.
-## Shades
+### Shades
 Shades are fading reflections of their past selves, having lost much in the veil of death. They are no longer the same individual they were in life but instead a caricature of their passions and their death. They are dominated with intense emotions that clouds their thinking. The only intact memories are of their worldly ties, everything else has fragmented. They are often delusional and mistake the living for people associated with their worldly tie. In the same way they struggle to form new memories.
-## Spectres
+### Spectres
 Spectres are the most faint version of ghosts, retaining nothing of their personality or personal memories. They exist as the role they had in life and remember nothing else, not even their own death. Due to their abstract worldly ties, it is difficult to lay them to rest. 
 
 # Kith and spirits

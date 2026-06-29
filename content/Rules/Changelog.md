@@ -1,8 +1,21 @@
 # 0.2.4
-
-
-
+*Posted 06/2026*
+## Abilities
+\+ Reeling Hit
+\- Defensive Riding (duplicate of Mounted Combat)
+* Shield Block now only functions on attacks from the front
+## Powers
+\+ Toxic Injuries, Spring Attack, Zephyr's Roar, Sword of Flame, Confounding Sensations, Psychic Tether, Trickster Warrior's Transformation, The Never-Veil, Momentary Inquisition, Burden of the Unwieldly, Spellweaver's Rain of Arrows, Dreamer's Embrace, Earth's Solid Grasp, Conjure the Ferocious Beast, Prescient Impact, Blessing of Distant Accuracy
+* Growing Combustion had its text updated to clarify its mechanics
+## Rituals
+\+ Rejuvenating Yield
+## Rules
+* Added Kits, a way to group together effects for easier build visualisation. No actual mechanical impact.
+* Revised test penalties, so that defensive tests aren't penalised by Defensive Stance. Rally & Evade Tests now only take Wound penalties.
+## Talents
+\+ Protecting Shield Block
 # 0.2.3
+*Posted 05/2026*
 ## Abilities
 \+ Force Net, Strike Through, Rally Resurgence, Leadership, Poisoned Words, Tall Tales
 * Second Sight: Now requires a Magic Defense Test against incorporeal spirits.
@@ -20,7 +33,7 @@ Moving towards more standardised ranges
 Added rules for equipment being directly damaged
 
 # 0.2.2
-
+*Posted 04/2026*
 ## Abilities
 \+ Battle Positioning, Channelling Overload
 ## Arts
@@ -41,6 +54,7 @@ Rebalanced and expanded all art ranks
 Added Talents.
 
 # 0.2.1
+*Posted 02/2026*
 ### Abilities
 * Bind Wound: Wording change
 ### Echelon
@@ -61,12 +75,12 @@ Tales
 * R2: +1 Mythos
 Travel
 * R2: 3 Health -> 4+STA
-
 ## Powers
 \+ Forked Lightning (Air), Scorching Metal (Alteration/Fire), The Supple Surface (Alteration), The Yielding Ground (Alteration),  Lubricious Cleave (Alteration), Restoration of Form (Alteration), Unravelling Touch (Alteration), Slow Weapon (Alteration), Ripple Reform (Alteration), Saviours Bond (Body), Calefaction Strike (Alteration), Gift of the Athletes Vigour (Body)
 ### Rituals
 \+ Charm of the Foolish Warrior, Visage of the False Kith
 # 0.2
+*Posted 01/2026*
 ## Abilities
 \+ Animal Companion (T1), Memory Gap (T2), Ritualist (T2), Mounted Combat (T1), Mounted Skirmish (T1), Mounted Rundown (T1), Augment Armor (T2), Augment Weapon (T2), Attune Item (T1)
 ## Powers
@@ -77,6 +91,7 @@ Travel
 ## Rules
 Added Ritual system, Item Attunement
 # 0.1.6
+*Posted 12/2025*
 ## Abilities
 * Quick Channel, Improved: Weave gain minimum Rank -> half Rank (min 1).
 * Weave Watcher: Only works within Medium range.
@@ -86,6 +101,7 @@ Added Ritual system, Item Attunement
 	* Enhance Weave: Increase penalties by 2-> 1 (2 -> 3)
 
 # 0.1.5
+*Posted 11/2025*
 ## Powers
 +Magic Sensitivity (Esoteric), Circle of Flames (Fire), Resilience of the Earth (Earth), Cabal Link (Esoteric), Clemency of the Cabal (Esoteric), Momentary Lapse (Memory), Lucubrate the Present (Memory)
 * Virulent Flame: Weave Cost 1->3
@@ -94,6 +110,7 @@ Added Ritual system, Item Attunement
 * Repel: 2+WIL burst -> 2m burst
 
 # 0.1.4
+*Posted 11/2025*
 ## Abilities
 +Quick Swap (T1)
 * Study Flaws: Penalty -(Rank) -> Penalty -2. Added scaling duration.
@@ -111,6 +128,7 @@ Added Ritual system, Item Attunement
 * Entangle: Escape TN 7+Rank -> 5+Rank
 
 # 0.1.1
+*Posted 11/2025*
 Ability parity, mostly complete
 # 0.0.3
 Countless changes, full migration to Obsidian

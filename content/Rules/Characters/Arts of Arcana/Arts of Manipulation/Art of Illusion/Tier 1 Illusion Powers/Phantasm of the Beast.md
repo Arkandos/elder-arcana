@@ -12,7 +12,7 @@ Close Range
 Effect: Make an INT+[[Weaving]] (8) Test. Success means you create an audio-visual illusion of a beast of Medium size or smaller that lasts for as long as you Focus (Major), and for Rank rounds afterwards.
 Whenever you Focus, you may mentally control the illusion.
 Once you stop Focusing, you cannot resume focusing.
-[[Disbelieve]]: 8 + Rank
+[[Disbelieve]]: 8 + Rank. If you have created multiple illusions with the same use of this power, they are Disbelieved together.
 
 > Additional Successes: Increase Disbelieve TN by 2.
 

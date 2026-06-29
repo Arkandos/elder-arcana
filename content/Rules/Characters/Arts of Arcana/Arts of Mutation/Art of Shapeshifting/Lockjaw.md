@@ -4,6 +4,7 @@ tags:
   - art/shapeshifting
   - actions/minor
   - effects/offense
+  - todo/rework
 ---
 # Lockjaw \[Power\] \[Transmute\] \[Shapeshifting\]
 Minor Action. 1 Weave.
