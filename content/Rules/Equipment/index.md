@@ -8,6 +8,7 @@ aliases:
 cssclasses:
   - document--no-title
 ---
+
 Mundane equipment is not strictly defined, but are instead part of different categories. When picking a piece of equipment, choose what form it takes. Costs are listed in silver pennies.
 # Armors
 # Common armors

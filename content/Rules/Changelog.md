@@ -1,3 +1,19 @@
+# 0.2.5
+## Abilities
+\+
+* Offensive "Touch" powers have been changed and are now WIL+Rank instead of Spells.
+* Unravelling Touch: Now has both a Major and Minor version, uses WIL+Rank correctly.
+* Pummel: Adds Rank to damage only on an extra success scored.
+* Trickster Warrior's Transformation: Now only gives a chance to Disbelieve if interacted with.
+* Confounding Sensations: No longer deals damage, automatic penalty in a cone instad.
+## Powers
+\+
+## Rituals
+\+ Face of Another
+## Rules
+
+## Talents
+\+ 
 # 0.2.4
 *Posted 06/2026*
 ## Abilities

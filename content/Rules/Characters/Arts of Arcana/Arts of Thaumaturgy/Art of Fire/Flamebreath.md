@@ -8,7 +8,7 @@ tags:
 ---
 # Flamebreath \[Power\] \[Spell\] \[Create\] \[Fire\]
 Major Action. 3 Weave.  
-(5 \+ INT)m long 45° Cone  
+(5 \+ INT)m long 45° Cone, all creatures
 Effect: Make an INT+[[Weaving]] Test against the Magic Defense of all targets.  
 Success deals 1d6+WIL+Rank Magic damage.  
 > Additional Successes: Increase damage by 2.

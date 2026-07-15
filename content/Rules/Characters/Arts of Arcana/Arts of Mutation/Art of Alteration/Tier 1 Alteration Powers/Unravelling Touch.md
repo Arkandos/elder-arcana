@@ -7,9 +7,12 @@ tags:
   - powers/attack
 ---
 # Unravelling Touch \[Power\] \[Destroy\] \[Alteration\]
-Major Action. 1 Weave.
-Attack: DEX+Rank vs Physical Defense
-Effect: Success means the target takes a -2 penalty to Physical Armor for 1 round.
+Major or Minor Action. 1 Weave.
+Melee, 1 enemy
+Attack: WIL+Rank vs Physical Defense
+Effect: Success means the target takes a penalty to Physical Armor.
+If you spent a Major Action the penalty is -4 and lasts for Rank rounds.
+If you spent a Minor Action the penalty is -2 and lasts for 1 round.
 The target may Rally WIL (5+Rank) to end the effect.
 > Additional Successes: increase the penalty by 2; increase the duration by 2 rounds.
 > 

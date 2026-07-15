@@ -7,7 +7,7 @@ tags:
   - keywords/spell
 ---
 # The Never-Veil \[Power\] \[Spell\] \[Create\] \[Illusion\]
-Major Action. 2 Weave.
+Major Action. 3 Weave.
 Close range, 1 enemy
 Effect: Make an INT+[[Weaving]] Test against the Magic Defense of all targets.
 Success means the target is Blinded for Rank rounds. All of the target's sight-based Tests count as Disbelieve Tests against this effect (but ignoring the Blinded penalty when comparing to the Disbelieve TN).

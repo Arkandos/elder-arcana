@@ -7,8 +7,8 @@ tags:
   - keywords/spell
 ---
 # Lipstitch \[Power\] \[Spell\] \[Control\] \[Shapeshifting\]
-Major Action. 3 Weave.
-10m, 1 enemy
+Major Action. 2 Weave.
+Close range, 1 enemy
 Effect: Make an INT+[[Weaving]] Test against the Magic Defense of the target.
 Success means that they cannot speak for Rank rounds. This prevents the use of all vocal effects, and imparts a -4 penalty to Weaving Tests.
 The target may Rally STR or WIL (5+Rank) to end the effect.

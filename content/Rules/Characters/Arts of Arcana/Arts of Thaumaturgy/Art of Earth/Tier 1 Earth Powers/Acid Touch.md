@@ -5,12 +5,11 @@ tags:
   - actions/major
   - effects/offense
   - powers/attack/melee
-  - keywords/spell
 ---
-# Acid Touch \[Power\] \[Spell\] \[Create\] \[Earth\]
+# Acid Touch \[Power\] \[Create\] \[Earth\]
 Major Action. 1 Weave.  
 Melee, 1 enemy.  
-Attack: INT+[[Weaving]] vs Physical Defense  
+Attack: WIL+Rank vs Physical Defense  
 Effect: 2d6+WIL Physical damage, and until the end of the next round, the target takes a \-2 penalty to Physical Armor.  
 The target may Rally STR (5+Rank) to end this effect.  
 

@@ -8,7 +8,7 @@ tags:
 ---
 # Curse of Sprite Strength \[Power\] \[Spell\] \[Transmute\] \[Shapeshifting\]
 Major Action. 4 Weave.
-30/60m, 1 enemy
+Close/Medium Range, 1 enemy
 Effect: Make an INT+[[Weaving]] Test against the Magic Defense of the target.
 Success means one of the target's arms shrinks for Rank rounds. All Tests and damage rolls using it suffer a -4 penalty.
 At the end of their turn the target may Rally STR (5+Rank) to end the effect.

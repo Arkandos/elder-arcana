@@ -21,7 +21,7 @@ Effect: You lose 1 Recovery to reduce your Wound severity by 1 step.
 ### Healing Theriac \[Create\] \[Body\] \[Consumable\]
 Tier 1\.  Cost 300\.  Weight 1.
 Major action.  
-Effect: Reduce your Wound severity by 1 step. Then spend a Recovery with a +8 bonus. If you have no Recoveries left, roll 1d10+2 and regain that much Health.
+Effect: Reduce your Wound severity by 1 step. Then spend a Recovery with a +8 bonus. If you have no Recoveries left, roll 1d10+8 and regain that much Health.
 #### Severed Limb Salve \[Create\] \[Body\] \[Consumable\]
 Tier 1\. Cost 600\.  Weight 1.
 Major action.  

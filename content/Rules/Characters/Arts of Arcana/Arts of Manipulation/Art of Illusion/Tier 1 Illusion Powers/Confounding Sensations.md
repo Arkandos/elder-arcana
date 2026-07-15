@@ -8,12 +8,12 @@ tags:
 ---
 # Confounding Sensations \[Power\] \[Spell\] \[Create\] \[Illusion\]
 Major Action. 2 Weave.
-Range Medium, 1 enemy
-Attack: INT+[[Weaving]] vs Magic Defense
-Effect: The target takes 2d6+WIL Magic damage, and the target takes a -2 penalty to Disbelieve Tests for Rank rounds
->Additional Successes: Increase damage by 4; increase duration by 2 rounds; increase penalty by 2;
+(5 \+ INT)m long 45° Cone, all creatures
+Effect: Make an INT+[[Weaving]] Test against the Magic Defense of all targets.  
+If you succeed the target takes a -4 penalty to Disbelieve Tests for Rank rounds, or a -2 penalty for 1 round if you fail.
+>Additional Successes: increase duration by 2 rounds; increase penalty by 2;
 
->Enhance Weave: Affect an additional enemy (2); all damaged targets are [[Staggered]] for 1 round (2)
+>Enhance Weave: Increase the cone length by 2m (2); Increase cone angle by 45° (2); all targets are [[Staggered]] while the penalty lasts (2)
 
 ---
 *Created 2026-06-23*
