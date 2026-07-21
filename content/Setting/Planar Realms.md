@@ -1,0 +1,23 @@
+---
+tags:
+  - setting
+---
+Beyond [[Coret]], lies the mystical planes and realms. Their denizens all have vested interests in Coret, and affect the world in various ways. The planar categories are Magic, Divine, Infernal, Faerie, and Boundless.
+
+#### The Magic plane
+**[[The Elder Planes|The Magic plane]]** is the most uncaring of them all and perhaps the oldest. There is no unified agenda or desire to influence Coret, and most interactions occur since the Magic plane spills over into the material world. It is divided into the elemental planes (air, earth, fire, water) where the raw elements dominate, but also the plane of Creation, where a perfect version of all things exists. Healing and repairing magic draw upon Creation, trying to restore the target to its perfect state in that plane. The Magic planes are inhospitable, and few have ever returned from their journeys there (if those tall tales can even be believed).
+
+#### Divine Realms
+**The Divine** is where the self proclaimed [[Gods Above|gods]] reside, both good and bad. Through their worshippers and divine agents they try to influence the world and shape it in their image, and to gather more devotees. However, they can no longer directly touch the world. The Cerulean pact binds them all to noninterference, although many gods are stretching the limits more and more these days. As the number of worshippers wane, so do the power of most gods. Desperate to reestablish their dominance they're pushing the limits of what is acceptable.
+
+#### Infernal Realms
+**The Infernal** houses the 7 realms of the [[Lords Below|dukes and duchesses of sin]]. The ruler of each realm is the pinnacle of the appropriate sin. As a whole the Infernal seek to corrupt the Kith of Coret filling them to the brim with sinful energy. Once the corrupted pass to the Graveyard, Infernal petitioners bargain for their soul. If they succeed, the soul is dragged to the Infernal where the sin is squeezed out of them. The realms divided, they squabble mostly internally. If they could ever be united, they would be a force capable of overwhelming even the Divine.
+
+#### Faerie Realms
+**[[Along the Faerie path|The Faerie]]** plane is the one most contingent on Kith, even more than the Divine. While the power of the divine is related to their worship, Faerie cannot exist without the belief of Kith. [[Faerie Creatures]] live and breathe only due to the fact that Kith believe in them. Not even their bodies are fully real, consisting of solid illusions named glamours. Faeries all exist to extract more of this imagination from Kith, either consciously or unconsciously. They do this through enacting stories that will live on in the minds of Kith, continuously siphoning power from it.
+
+#### Boundless planes
+**The** [[Boundless planes]] are the Graveyard, the Astral, and the Void. They are more nebulous than the other planes.  
+The Graveyard is where the souls of all Kith go when they die. The god of death, [[Gods Above#Lyzaris - Goddess of Death|Lyzaris]], rules over this realm and is the only god existing outside the Divine. Divine and Infernal petitioners arrive here, fighting for custody over the souls.  
+The Astral is the connective tissue between realms. It has been described as an endless silvery ocean, or a winding road in a blank landscape. Those who know how to astral travel can use it to travel great distances.  
+The Void is where the daemons reside. The daemons claim to be as old as existence, and they *hate* existing. They wish for nothing more but the complete unravelling of the universe.

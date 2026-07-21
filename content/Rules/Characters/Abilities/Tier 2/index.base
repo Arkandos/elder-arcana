@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("ability/tier2")
+    order:
+      - file.name
+      - tier
+      - action
+      - cost

@@ -1,0 +1,3 @@
+Some illusory effects can be ignored if they are disbelieved. Whenever you interact with an effect with Disbelieve using at least a Minor action, you attempt to disbelieve it. If the interaction you take includes a test, compare the test result to the Disbelieve TN. Success means you disbelieve it and ignore its effects. If the interaction does not include a test, make an INT+Awareness Test.
+
+If you have disbelieved an effect, you may aid other creatures in disbelieving it by calling it out or showcasing inconsistencies in it to give them a +4 bonus to disbelieve.

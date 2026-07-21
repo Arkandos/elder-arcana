@@ -1,0 +1,1 @@
+Concentrate on an effect at a later time by using the action in parenthesis. You cannot Focus on an effect more than once per round, and not in the same the round you first use the effect.

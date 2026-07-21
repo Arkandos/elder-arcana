@@ -1,0 +1,1 @@
+For every Rank, you speak and write one language.

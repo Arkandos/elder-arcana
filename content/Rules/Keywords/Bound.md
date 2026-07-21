@@ -1,0 +1,1 @@
+Bound equipment is temporarily created by magic and disappear once its duration ends.

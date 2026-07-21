@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"59a5c26107b5b8a1","x":-213,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Change Stance.md"},
+		{"id":"b125de5e38d9de55","x":232,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Channel.md"},
+		{"id":"24ad06fe4fe85faa","x":677,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Disengage.md"},
+		{"id":"b1e8c60f7e884949","x":1122,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Dodge.md"},
+		{"id":"0274af7d63ce9b37","x":1567,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Guard.md"},
+		{"id":"5ff0b7f0f062d217","x":2012,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Kip Up.md"},
+		{"id":"c7b8658e9337e07d","x":2457,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Knockdown.md"},
+		{"id":"1fbbf2d7451e4871","x":2902,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Melee Strike.md"},
+		{"id":"597f72813c8cec30","x":3347,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Opportunity Attack.md"},
+		{"id":"fabbe57cd39cde01","x":3792,"y":-31,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Quick Channel.md"},
+		{"id":"8ad25f1e24dd8763","x":-213,"y":414,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Ranged Strike.md"},
+		{"id":"baf539f179708f33","x":232,"y":414,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Stabilize.md"},
+		{"id":"f6f677d4d09e47d2","x":677,"y":414,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Stand Up.md"},
+		{"id":"b2178e067f98c858","x":1122,"y":414,"width":400,"height":400,"type":"file","file":"Rules/Encounters/Encounter Actions/Stride.md"}
+	],
+	"edges":[]
+}

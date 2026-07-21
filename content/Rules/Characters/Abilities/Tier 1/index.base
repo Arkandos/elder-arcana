@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("ability/tier1")
+        - '!file.name.contains("index")'
+        - file.folder != "z_templates"
+    order:
+      - file.name
+      - tier
+      - action
+      - cost
+      - attributes
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: action
+        direction: ASC
+      - property: cost
+        direction: ASC

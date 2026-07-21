@@ -1,0 +1,25 @@
+---
+title: Art of Body
+aliases:
+  - Art of Body
+cssclasses:
+  - document--no-title
+tags:
+  - art/body
+---
+Affect bodies, both your own and others. Bodies refer to all creatures who have a physical form (although not unliving things like elementals). Botches may result in permanent changes, injuries, or terrible body experiences.
+
+| Rank | Sample effects                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Sense very general information about a body, like how healthy or sick they are.<br>Make cosmetic changes to a creature in Melee range, like removing hair or changing eye colour for a short time.                                                                                                                                                                                                                        |
+| 2    | Lessen or increase pain.<br>Slowly move a body within Close range across a surface that supports it.<br>Cause temporary bodily distractions like itching or watery eyes.                                                                                                                                                                                                                                                  |
+| 3    | Halve or double your own weight while you focus.<br>Lessen your own fatigue, like allowing you to stay awake for longer or travel further.<br>Detect any and all medical defects a creature possesses.                                                                                                                                                                                                                    |
+| 4    | Slowly move a body straight up or down up to Close range.<br>Hold a body floating within Close range.<br>Forcefully move a body part of an individual in Medium range, like kicking.<br>Sense general information about a body, like seeing where poison is in their system or hearing a disease course through their system.<br>Permanently cause superficial damage to a target in Close range, like removing all hair. |
+| 5    | Delay the effects of fatigue while you focus.<br>Sense the number of creatures within an area in sight.<br>Transfer fatigue from one creature to another.<br>Infect someone in Far range with a moderate disease that spreads at its normal rate.<br>Speak with a dead body (not its spirit)<br>Reattach a severed limb.                                                                                                  |
+| 6    | Move a body in any direction within Medium range.<br>Restore or destroy a sense in Melee range.<br>Regulate the speed of a disease or poison in a body.                                                                                                                                                                                                                                                                   |
+| 7    | Infect someone in Far range with a serious disease that spreads quickly.<br>Wrack a group of creatures in Far range with pain while you focus.<br>                                                                                                                                                                                                                                                                        |
+| 8    | Quickly move a body in any direction within Far range.                                                                                                                                                                                                                                                                                                                                                                    |
+| 9    | Bring someone back from the brink of death.<br>Purge all poisons and diseases from a body.                                                                                                                                                                                                                                                                                                                                |
+
+---
+*Created 2025-11-12*

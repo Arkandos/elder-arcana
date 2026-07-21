@@ -1,0 +1,1 @@
+When you Bind a resource, it becomes unavailable for a certain duration. For example, if you Bind 3 Weave, your current and maximum Weave is reduced by 3. Once you unbind it, you regain 3 current and maximum Weave.

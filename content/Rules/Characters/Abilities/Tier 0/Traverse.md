@@ -1,0 +1,1 @@
+Covers climbing, swimming, passing through hazardous terrain.

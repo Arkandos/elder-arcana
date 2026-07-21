@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("art/convoking")
+        - file.tags.contains("powers")
+    order:
+      - file.name
+      - art
+      - tier
+      - action
+      - cost

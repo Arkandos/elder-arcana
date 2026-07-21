@@ -1,0 +1,1 @@
+When you shift, you move without triggering enemies [[Opportunity Attack]]
