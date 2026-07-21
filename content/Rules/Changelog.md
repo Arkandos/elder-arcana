@@ -9,7 +9,7 @@ The filtering update! An estimated 1782 properties in total have been added to A
 * Trickster Warrior's Transformation: Now only gives a chance to Disbelieve if interacted with.
 * Confounding Sensations: No longer deals damage, automatic penalty in a cone instad.
 ## Powers
-\+ 
+\+ Desperate Burn
 * Neverveil: Disbelieve TN 8+Rank -> 10+Rank
 ## Rituals
 \+ Face of Another
