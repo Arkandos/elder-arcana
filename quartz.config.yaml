@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-GB
-  baseUrl: arkandos.github.io
+  baseUrl: arkandos.github.io/elder-arcana
   ignorePatterns:
     - private
     - z_templates
