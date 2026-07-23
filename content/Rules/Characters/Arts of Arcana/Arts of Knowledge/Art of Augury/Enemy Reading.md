@@ -1,7 +1,7 @@
 ---
 tags:
   - powers/tier1
-  - art/air
+  - art/augury
   - actions/minor
   - effects/offense
 created: 2025-11-15

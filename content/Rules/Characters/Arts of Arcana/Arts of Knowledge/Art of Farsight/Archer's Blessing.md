@@ -1,7 +1,7 @@
 ---
 tags:
   - powers/tier1
-  - art/air
+  - art/farsight
   - actions/minor
   - effects/offense
 created: 2025-11-14

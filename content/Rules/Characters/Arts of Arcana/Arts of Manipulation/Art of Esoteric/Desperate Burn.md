@@ -1,7 +1,7 @@
 ---
 tags:
   - powers/tier1
-  - art/fire
+  - art/esoteric
   - actions/free
   - effects/offense
 created: 2026-07-21

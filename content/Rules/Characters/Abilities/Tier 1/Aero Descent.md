@@ -10,6 +10,7 @@ cost:
   - Health 1
 attributes:
   - DEX
+tier: "1"
 ---
 # Aero Descent \[Control\] \[Air\] \[Blood\]
 Tier 1. Prerequisite: [[Acrobatics]] 1

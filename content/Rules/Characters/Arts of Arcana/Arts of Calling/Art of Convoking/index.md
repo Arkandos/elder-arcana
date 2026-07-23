@@ -22,8 +22,5 @@ Wards on locations can be broken, but not by a warded creature (even indirectly)
 | 8    | Permanently trap an associated creature, until the trap is broken.<br>Summon a disembodied spirit to obey your commands for a long time.<br>Siphon power from an associated magical aura, or defile any other aura.                                                                                |
 | 9    | Permanently ward a location against associated creatures, preventing them from entering or affecting anything inside the ward (directly or indirectly.)<br>Summon a cunning and powerful associated creature.<br>Become aware of all summoned creatures and portals within Far range at all times. |
 
-![[Convoking Powers.base]]
-
-
 ---
 *Created 2025-11-08*

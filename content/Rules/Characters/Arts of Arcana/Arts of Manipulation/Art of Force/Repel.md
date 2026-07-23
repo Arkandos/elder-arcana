@@ -1,7 +1,7 @@
 ---
 tags:
   - powers/tier1
-  - art/fire
+  - art/force
   - actions/major
   - effects/offense
   - keywords/spell
