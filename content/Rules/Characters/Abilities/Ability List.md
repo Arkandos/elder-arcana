@@ -11,6 +11,7 @@ views:
       - tier
       - action
       - cost
+      - attributes
       - tags
     sort:
       - property: tier
