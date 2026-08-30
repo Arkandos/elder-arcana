@@ -39,6 +39,9 @@ Once completed, you increase two different of your attributes.
 * If the attribute is 0 or lower, increase it by 2 points.
 * Otherwise, increase it by 1 point.
 
+Anyone can use Body or Mind essence for their advancement ritual, or essence tied to the highest rank Art they posses.
+The Tier 1 advancement ritual costs 3 Essence.
+
 # Echelon paths
 
 Benefits marked with an $^+$ only apply your attribute if its positive. For every Echelon you gain your Mythos increases by 1. When a path gives you access to an ability, that allows you acquire it while ignoring its prerequisites.
@@ -84,7 +87,7 @@ For every Rank you must find a suitable source of nature.
 | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | 1    | 3 Health <br>1 Mental defense <br>2 Weave <br>3 Powers (each from different arts)<br><br>You can spend 1 Mythos to get a bonus d6 on any roll to understand nature, or performing artistry | You have aided in the growth of the natural world.                                      |
 | 2    | 3 Health <br>1 Magic defense <br>2 Weave <br>1 Power <br>1 Mythos                                                                                                                          | You have befriended or gained the respect of a kith in harmony with nature.             |
-| 3    | 3 Health <br>1 Physical defense <br>1 Weave <br>2 Powers (each from different arts)<br>1 Initiative<br><br>Gain access to one of [[Anima Speech]], [[Nature Speech]], or \<ability t2\>     | You have brought life to desolation. You have destroyed an influence corrupting nature. |
+| 3    | 3 Health <br>1 Physical defense <br>1 Weave <br>2 Powers (each from different arts)<br>1 Initiative<br><br>Gain access to one of [[Anima Speech]], (ability T2 TBD), or (ability T2 TBD)   | You have brought life to desolation. You have destroyed an influence corrupting nature. |
 | 4    | 2 Health <br>1 Mental defense  <br>1 Physical & Magic armor                                                                                                                                | You have used essence to enhance nature. You incorporate nature in your being.          |
 
 ## Path of Subterfuge
@@ -106,7 +109,7 @@ For every Rank you must find a suitable audience and tell a tale.
 | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | 1    | (4+STA$^+$) Health <br>1 Mental defense <br>1 Weave <br>1 Power <br>1 Initiative <br><br>You can spend 1 Mythos to get a bonus d6 on any roll to endear, perform, or against fear. | You have experienced and told a worthy tale.                                                                  |
 | 2    | 3 Health <br>1 Magic defense <br>1 Power<br>1 Speed<br>1 Mythos                                                                                                                    | You have befriended or gained the respect of a great storyteller.                                             |
-| 3    | (4+STA$^+$) Health <br>1 Weave <br>1 Power <br>2 Mythos <br><br>Gain access to one of [[Art Alacrity]], [[Banish]], or \<ability t2\>                                              | You have survived an encounter with a terrible foe. You have revived an ancient tale.                         |
+| 3    | (4+STA$^+$) Health <br>1 Weave <br>1 Power <br>2 Mythos <br><br>Gain access to one of [[Art Alacrity]], [[Banish]], or (ability T2 TBD)                                            | You have survived an encounter with a terrible foe. You have revived an ancient tale.                         |
 | 4    | 3 Health <br>1 Physical defense<br>1 Initiative                                                                                                                                    | You have slain a mighty beast, or defeated a shrewd and evil Kith. You have used essence to make a tale true. |
 
 ## Path of Travel
@@ -117,5 +120,5 @@ For every Rank you must find a suitable trainer from a faraway place.
 | :--- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
 | 1    | (4+STA$^+$) Health<br>1 Physical defense<br>1 Weave<br>1 Powers<br>1 Speed<br><br>You can spend 1 Mythos to get a bonus d6 on any roll to track, navigate, or forage. | You have found a new path, or journeyed a great distance.                                                                    |
 | 2    | (4+STA$^+$)  Health<br>1 Magic defense<br>1 Speed                                                                                                                     | You have befriended or gained the respect of a seasoned traveller.                                                           |
-| 3    | (4+STA$^+$) Health<br>1 Weave<br>1 Power<br>1 Initiative<br><br>Gain access to one of [[Disguise]], [[Mounted Rundown]], or [[Nature Speech]]                         | You have successfully tracked a significant foe. You have found a long lost place.                                           |
+| 3    | (4+STA$^+$) Health<br>1 Weave<br>1 Power<br>1 Initiative<br><br>Gain access to one of [[Disguise]], [[Mounted Rundown]], or (ability T2 TBD)                          | You have successfully tracked a significant foe. You have found a long lost place.                                           |
 | 4    | (4+STA$^+$) Health<br>1 Physical defense<br>1 Speed<br>1 Initiative                                                                                                   | You have hunted down a great thief, or returned a powerful relic to its owner. You wear trinkets gathered from your journey. |

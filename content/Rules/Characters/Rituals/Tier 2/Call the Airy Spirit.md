@@ -2,6 +2,10 @@
 tags:
   - ritual/tier2
   - art/thaumaturgy
+created: 2026-07-21
+tier: "2"
+art: Thaumaturgy
+time: 3 Phases
 ---
 # Call the Anima Spirit \[Ritual\] \[Control\] \[Thaumaturgy\]
 

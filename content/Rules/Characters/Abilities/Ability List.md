@@ -26,7 +26,11 @@ views:
       - tier
       - action
       - cost
+      - attributes
       - tags
+    sort:
+      - property: attributes
+        direction: ASC
   - type: table
     name: Tier 2
     filters:
@@ -37,6 +41,7 @@ views:
       - tier
       - action
       - cost
+      - attributes
       - tags
 
 ```

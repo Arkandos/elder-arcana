@@ -2,6 +2,10 @@
 tags:
   - ritual/tier2
   - art/body
+created: 2026-07-21
+tier: "2"
+art: Body
+time: 1 Phase
 ---
 # Charm of the Foolish Warrior \[Ritual\] \[Control\] \[Body\]
 

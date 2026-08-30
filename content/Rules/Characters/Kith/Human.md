@@ -12,3 +12,4 @@ Despite their short lifespan, humans are a force to be reckoned with on Coret. T
 	- Ride (1)
 - Special traits:
 	- Versatility: Choose one of the following ability pairs. The Ranks of the pair are always equal to the highest one. Acrobatics-Traverse, Artistry-Craft, Awareness-Study, Bargain-Trickery, Brawl-Stealth, Charm-Guile, Command-Survival, Insight-Language, Medicine-Lore(Natural), Weapons(Melee-Ranged)
+	- Adaptable: You gain 3 additional points to spend on Attributes.

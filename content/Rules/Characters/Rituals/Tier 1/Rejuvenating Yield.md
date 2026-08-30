@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/nature
+created: 2026-07-21
+tier: "1"
+art: Nature
+time: 6 Phases
 ---
 # Rejuvenating Yield \[Ritual\] \[Create\] \[Transmute\] \[Nature\]
 

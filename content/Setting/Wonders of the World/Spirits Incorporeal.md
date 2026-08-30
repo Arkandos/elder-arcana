@@ -23,7 +23,7 @@ In subtle ways, they try to encourage Kith to commit sins. Offering temptation a
 
 An infernal spirit must manifest to use most of their powers, but this takes time as they can only manifest by stealing matter from somewhere nearby. This matter must be physical, but need not make sense for the manifested form. Wet clay could be shaped into a humanoid body, and then clad in illusions to mimic skin and clothes. Most infernal spirits are limited to manifesting in a singular physical form with a specific appearance. 
 
-The more powerful the infernal, the longer it takes to manifest a body for its power must be condensed from a boundless shape into a physical container. However powerful the spirit is it takes only a few seconds for it to dissolve the body and return to spiritual form, but the concentration required for this can be interrupted. The physical form of an infernal spirit has no emblematic connection to the spirit, for it is simply borrowed and does not belong to the infernal.
+The more powerful the infernal, the longer it takes to manifest a body for its power must be condensed from a boundless shape into a physical container. However powerful the spirit is it takes only a few seconds for it to dissolve the body and return to spiritual form, but the concentration required for this can be interrupted. The physical form of an infernal spirit has no arcane connection to the spirit, for it is simply borrowed and does not belong to the infernal.
 
 An infernal that is slain (either in physical or spiritual form) dies and is sent back to its realm, where it is either dissolved or tortured for all eternity. 
 

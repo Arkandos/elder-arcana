@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/alteration
+created: 2026-07-21
+tier: "1"
+art: Alteration
+time: 1 Phase
 ---
 # Shape Rigidity \[Ritual\] \[Transmute\] \[Alteration\]
 

@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/esoteric
+created: 2026-07-21
+tier: "1"
+art: Esoteric
+time: 3 Phases
 ---
 # Chamber of Effortless Weaves \[Ritual\] \[Enhance\] \[Esoteric\]
 

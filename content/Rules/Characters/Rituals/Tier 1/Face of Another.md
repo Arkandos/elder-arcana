@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/illusion
+created: 2026-07-21
+tier: "1"
+art: Illusion
+time: 1 Phase
 ---
 # Face of Another \[Ritual\] \[Control\] \[Illusion\]
 

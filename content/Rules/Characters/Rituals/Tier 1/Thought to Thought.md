@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/mind
+created: 2026-07-21
+tier: "1"
+art: Mind
+time: 1 Phase
 ---
 # Thought to Thought \[Ritual\] \[Create\] \[Mind\]
 

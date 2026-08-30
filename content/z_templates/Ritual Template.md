@@ -1,7 +1,11 @@
 ---
 tags:
   - ritual/tier3
-created: {{date:YYYY-MM-DD}}
+created:
+  "{ date:YYYY-MM-DD }":
+tier: "1"
+art:
+time:
 ---
 # Chamber of Effortless Weaves \[Ritual\] \[Enhance\] \[Esoteric\]
 

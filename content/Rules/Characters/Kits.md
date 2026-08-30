@@ -17,8 +17,8 @@ It is vital to keep your initiative high for this tactic, which means keeping yo
 There is inherent risk in this strategy, as the low armor means the hits you take can become devastating. That is why its equally important to consider your offensive and defensive abilities (see above)
 ## Arts
 There are many possible art combinations that could synergize. 
-* [[Rules/Characters/Arts of Arcana/Arts of Emblems/Art of Blood/index|Art of Blood]] can compensate for your low Weave pool by spending Health directly, but beware the amount of Health you are potentially spending with all your abilities.
-* [[Rules/Characters/Arts of Arcana/Arts of Emblems/Art of Warding/index|Art of Warding]] can keep up your defenses, but requires a bit of Weave investment.
+* [[Rules/Characters/Arts of Arcana/Arts of Connections/Art of Blood/index|Art of Blood]] can compensate for your low Weave pool by spending Health directly, but beware the amount of Health you are potentially spending with all your abilities.
+* [[Rules/Characters/Arts of Arcana/Arts of Connections/Art of Warding/index|Art of Warding]] can keep up your defenses, but requires a bit of Weave investment.
 * The arts of [[Rules/Characters/Arts of Arcana/Arts of Manipulation/Art of Illusion/index|Illusion]], [[Rules/Characters/Arts of Arcana/Arts of Mutation/Art of Body/index|Body]], [[Rules/Characters/Arts of Arcana/Arts of Mutation/Art of Shapeshifting/index|Shapeshifting]] all have a variety of both defensive, offensive, and mobility options that suit this kit's playstyle.
 ## Tactics
 You want to strike fast, and strike hard. Your high offensive capabilities are best used when you can start spiralling the enemy into defeat. You should select your opponents with great care. Where is the best position to be? How do you avoid being surrounded or cornered? Where can you do the most damage while still surviving?

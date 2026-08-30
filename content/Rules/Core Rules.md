@@ -41,6 +41,12 @@ While most ranges are defined as a number of meters, there are a number of speci
 * Medium (X): Up to 10 \* the rank of X meters  
 * Far (X): Up to 100 \* the rank of X meters  
 * Sight: As far as you can see
+# Areas
+* Radius: A circle with a certain radius
+* Line: A straight line of a certain length and width
+* Cone: A cone of a certain angle and length, usually starting by the origin.
+* Zone: A persistent area that lasts for a duration.
+
 # Relations
 Sometimes the level of relation you have with NPCs may be important. Therefor the relations are codified in the following manner to help both players and GMs estimate how well an NPC thinks of you:  Hostile \- Negative \- Neutral \- Positive \- Friendly  
 Improving a relation by 1 step moves it towards Friendly, reducing a relation by 1 step moves it towards Hostile.  

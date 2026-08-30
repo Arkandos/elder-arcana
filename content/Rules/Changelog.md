@@ -1,5 +1,6 @@
 # 0.2.5
 
+
 The filtering update! An estimated 1782 properties in total have been added to Abilities and Powers to categorise them and make them easier to filter.
 ## Abilities
 \+
@@ -7,9 +8,11 @@ The filtering update! An estimated 1782 properties in total have been added to A
 * Unravelling Touch: Now has both a Major and Minor version, uses WIL+Rank correctly.
 * Pummel: Adds Rank to damage only on an extra success scored.
 * Trickster Warrior's Transformation: Now only gives a chance to Disbelieve if interacted with.
-* Confounding Sensations: No longer deals damage, automatic penalty in a cone instad.
+* Confounding Sensations: No longer deals damage, automatic penalty in a cone instead.
+## Kith
+* Human: Now gains +3 additional attribute points.
 ## Powers
-\+ Desperate Burn
+\+ Desperate Burn, Hunger from Beyond
 * Neverveil: Disbelieve TN 8+Rank -> 10+Rank
 ## Rituals
 \+ Face of Another

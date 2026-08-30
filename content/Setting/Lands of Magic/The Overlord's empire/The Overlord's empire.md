@@ -1,6 +1,8 @@
 ---
 tags:
   - setting
+aliases:
+  - The Invincible Overlord
 ---
 A significant portion of the world has fallen beneath the banner of the Invincible Overlord, a mysterious divine-like entity said to wage a war on the gods themselves. Usually referred to as the Ebon Empire, it has no cohesive structure but instead consists of countless fiefdoms controlled by powerful agents that have the Overlords blessing. Ever hungry for expansion, the empire stretches out every year as neighbouring nations are conquered or assimilated. One day perhaps the entire world will stand in the shadow of the Overlord. Where will the lust for conquest turn then?
 

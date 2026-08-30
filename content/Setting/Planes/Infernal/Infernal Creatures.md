@@ -1,0 +1,5 @@
+There are two types of infernal creatures. The pure infernal spirits, and the ones that have been corrupted by infernal influence. Infernals all have a singular purpose: to spread sin among Kith, so that it may later be harvested when they pass through [[Boundless planes#The Graveyard|The Graveyard]]. Sins only accumulate when done through free will. This means that infernals usually stray away from forcing kith's hands, unless doing so furthers their machinations to spread sin to others.
+
+![[Spirits Incorporeal#Infernal Spirits]]
+# Corrupted and Befouled
+The corrupting influence of the infernal realms and its denizens spreads like a disease through all they touch. Once healthy plant- and wildlife may take on sick and twisted forms in an [[Infernal Auras|Infernal Aura]], or when subjected to the corrupting powers of Infernals. Abominable mutations combined with a dangerous malice are the most common results of corruption.

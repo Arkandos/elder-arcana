@@ -4,6 +4,10 @@ tags:
 ---
 While [[The Weave]] is ever present and growing in strength, it is not omnipotent. Certain acts are beyond even the most powerful weavers on [[Coret]]. These are commonly known as the limits of magic.
 # The Limits of Magic
+## Awareness
+Without the use of an [[Arcane Connections|Arcane Connection]], a Weaver must be aware of their target to affect them. This means that even if you know of creatures existing in a room, you cannot affect them unless you are directly aware of them. Simply hearing sound is not enough to be fully aware, since hearing is an imprecise sense (like smell). Touch and sight are precise senses, but magically enhanced senses may also be precise enough to give sufficient awareness.
+
+Instead of targeting the creatures in a room, you could target the room and every applicable target inside it. This would mean you only need to be aware of the room (like its outside walls) instead of everything in it. However, affecting larger and indiscriminate targets in this way is more difficult than affecting the creatures directly.
 ## Time
 The weave cannot change the past or future, nor can it alter the flow of time. You cannot travel back or forward in time, but you can learn from the past as it is already set. And you can glimpse into one of countless possible futures.
 ## Stellar

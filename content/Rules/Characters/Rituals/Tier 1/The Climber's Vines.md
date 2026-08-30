@@ -2,6 +2,10 @@
 tags:
   - ritual/tier1
   - art/nature
+created: 2026-07-21
+tier: "1"
+art: Nature
+time: 1 Phase
 ---
 # The Climber's Vines \[Ritual\] \[Create\] \[Nature\]
 

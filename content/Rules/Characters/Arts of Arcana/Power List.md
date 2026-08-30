@@ -17,7 +17,7 @@ views:
       - attributes
       - tags
     sort:
-      - property: art
+      - property: tier
         direction: ASC
   - type: table
     name: Air
